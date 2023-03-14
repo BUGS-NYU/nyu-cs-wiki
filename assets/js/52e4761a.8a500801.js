@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbugs_wiki=self.webpackChunkbugs_wiki||[]).push([[676],{17:s=>{s.exports=JSON.parse('{"label":"Planning","permalink":"/nyu-cs-wiki/docs/tags/planning","allTagsPath":"/nyu-cs-wiki/docs/tags","count":1,"items":[{"id":"All/schedule","title":"Schedule","description":"","permalink":"/nyu-cs-wiki/docs/All/schedule"}]}')}}]);
