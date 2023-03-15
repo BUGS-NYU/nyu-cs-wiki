@@ -1,5 +1,5 @@
 ---
-title: All
+title: Intro
 sidebar_position: 1
 tags:
   - All
