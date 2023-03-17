@@ -69,6 +69,9 @@ const config = {
         logo: {
           alt: 'BUGS',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_white.svg',
+          width: 32,
+          height: 32,
         },
         items: [
           {
