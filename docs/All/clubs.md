@@ -1,8 +1,8 @@
 ---
 title: Clubs
 tags:
-  - Tandon
   - CAS
+  - Tandon
   - Clubs
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 In general, there isn't a "best" way of finding clubs but there are a few resources that can be used to help find clubs. NYU Engage is the main campus-wide platform used and it can show a list of clubs that are available at NYU and provide reminders for upcoming events. A newer option is using the NYU student hub on [Discord](https://discord.com/student-hubs) which can make it easy to discover more active clubs on campus. There are also the individual school club discovery pages though they often are not kept up to date (ex. [CAS](https://nyucassc.com/cas-clubs) and [Tandon](https://engineering.nyu.edu/life-tandon/student-life/student-organizations)).
 
-## Notable CS Clubs
+## Notable CS Clubs <!-- Link priority: engage > website > social media (discord > instagram) -->
 
 - BUGS (CAS) - [Engage](https://engage.nyu.edu/organization/bugs-open-source-at-nyu), [Website](https://www.bugsnyu.com/), [Discord](https://discord.gg/75jgtXy7rz), [Instagram](https://www.instagram.com/nyubugs/)
 
@@ -24,7 +24,7 @@ In general, there isn't a "best" way of finding clubs but there are a few resour
 
     The ProgTeam is a place for students interested in solving problems to practice their skills, learn new ones, and share their knowledge and passion with others. Whether you are preparing for technical interviews, practicing for programming contests, or solving problems for fun, you should find like-minded students in ProgTeam.
 
-- OSIRIS Lab (Tandon) - [Engage](https://engage.nyu.edu/organization/cyber-security-club) [Website](https://osiris.cyber.nyu.edu/), [Discord](https://discord.gg/7RcrQrYQYD)
+- OSIRIS Lab (Tandon) - [Engage](https://engage.nyu.edu/organization/cyber-security-club), [Website](https://osiris.cyber.nyu.edu/), [Discord](https://discord.gg/7RcrQrYQYD)
 
     OSIRIS is the cybersecurity club and research lab at NYU. OSIRIS is open to anyone at NYU, regardless of experience level or background. They host Lab Meetings/Hack Nights on a consistent basis both in-person and online. If you are interested, play the Recruit CTF and finish one of the challenge categories to become a full member. 
 
