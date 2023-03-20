@@ -42,8 +42,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl:
+            'https://github.com/BUGS-NYU/nyu-cs-wiki/tree/main/',
         },
         // blog: {
         //   showReadingTime: true,
@@ -103,15 +103,23 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Docs',
-          //   items: [
-          //     {
-          //       label: 'Tutorial',
-          //       to: '/docs/intro',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'All Students',
+                to: '/docs/All/intro',
+              },
+              {
+                label: 'CAS Students',
+                to: '/docs/CAS/intro',
+              },
+              {
+                label: 'Tandon Students',
+                to: '/docs/Tandon/intro',
+              },
+            ],
+          },
           {
             title: 'Community',
             items: [
