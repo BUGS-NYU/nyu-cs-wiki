@@ -20,7 +20,7 @@ Many of the larger companies will have dedicated internships for freshman/sophom
 
 ## How
 
-You should have an up to date resume ready. Your resume should be succinct and at most one page. Other resources like a LinkedIn profile or GitHub account can also be helpful, but are not required for all applications.
+You should have an up to date resume ready. Your resume should be succinct and at most one page. NYU offers some [tips and templates](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs/prepare-for-the-job-search/resumes-and-cover-letters.html) you can take advantage of. Other resources like a LinkedIn profile or GitHub account can also be helpful, but are not required for all applications.
 
 * [Pitt Computer Science Club Wiki](https://github.com/pittcsc/Summer2023-Internships) - The Pitt Computer Science Club has a community maintained list of internships.
 * [LinkedIn](https://www.linkedin.com/jobs/internships/) - LinkedIn has a list of internships.
