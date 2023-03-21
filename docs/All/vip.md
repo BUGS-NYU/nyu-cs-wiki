@@ -18,4 +18,4 @@ A full list of teams is available on the [NYU website](https://engineering.nyu.e
 
 ## How to Apply
 
-On each team's page there will be a link to an application form. Students can apply to VIP teams when registration opens for the upcoming semester. After being accepted by a team, you must enroll before the add/drop deadline in Albert. For more details see the [NYU website](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-recruitment).
+On each team's page, there will be a link to an application form. Students can apply to VIP teams when registration opens for the upcoming semester. After being accepted by a team, you must enroll before the add/drop deadline in Albert. For more details, see the [NYU website](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-recruitment).
