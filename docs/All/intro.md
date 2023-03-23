@@ -2,7 +2,8 @@
 title: Intro
 sidebar_position: 1
 tags:
-  - All
+  - CAS
+  - Tandon
 ---
 
 # Information relevant to all students
