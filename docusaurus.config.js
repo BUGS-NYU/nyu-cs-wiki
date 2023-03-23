@@ -92,12 +92,12 @@ const config = {
             position: 'left',
             label: 'Tandon',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            type: 'doc',
+            docId: 'Syllabi/intro',
+            position: 'left',
+            label: 'Syllabi',
+          }
         ],
       },
       footer: {
