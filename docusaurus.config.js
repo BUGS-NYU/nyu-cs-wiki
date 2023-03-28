@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://bugsnyu.com',
+  url: 'https://nyucswiki.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/nyu-cs-wiki/',
+  baseUrl: '/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
