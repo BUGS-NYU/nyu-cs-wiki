@@ -92,12 +92,6 @@ const config = {
             position: 'left',
             label: 'Tandon',
           },
-          {
-            type: 'doc',
-            docId: 'Syllabi/intro',
-            position: 'left',
-            label: 'Syllabi',
-          }
         ],
       },
       footer: {
