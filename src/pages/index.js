@@ -8,7 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -27,14 +27,26 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="CS wiki for NYU students">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
+        {/* <section className={styles.features}>
+          <div className="container item shadow--md">
+            <div className="row">
+              <div className={clsx('col col--4')}>
+                <div className="text--center padding-horiz--md">
+                  <h3>title</h3>
+                  <p>description</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section> */}
       </main>
     </Layout>
   );
