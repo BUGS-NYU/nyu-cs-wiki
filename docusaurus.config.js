@@ -118,6 +118,10 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'BUGS Homepage',
+                href: 'https://bugsnyu.com',
+              },
+              {
                 label: 'Discord',
                 href: 'https://discord.com/invite/75jgtXy7rz',
               },
