@@ -31,13 +31,13 @@
 }
 
 
-p a {
+p a, li a {
   --ifm-link-decoration: none;
   --ifm-link-hover-decoration: none;
   border-bottom: 1px solid #57068c33;
 }
 
-p a:hover {
+p a:hover, li a:hover {
   border-bottom: 1px solid #57068c;
 }
 
