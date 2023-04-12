@@ -33,4 +33,4 @@ Competitive programming is a great way to improve your problem solving skills an
 
 Every year, the International Collegiate Programming Contest (ICPC) is held. It is a global competition where teams of 3 students compete against each other. First, there are the regional competitions. For NYU this is the [Greater New York Region (GNYR)](https://acmgnyr.org/). The top few teams (exact amount varies per year) will advance to the North America Championship (NAC). The top few teams from NAC will advance to the World Finals. The competition is usually held in the fall semester.
 
-As a result of NYU acquiring Polytechnic (Tandon), NYU sends teams for both schools separetly: teams cannot have a mix of CAS and Tandon students. Both schools send multiple teams to the regional competition, usually 3 (6 teams in total).
+As a result of NYU acquiring Polytechnic (Tandon), NYU sends teams for both schools separately and teams cannot have a mix of CAS and Tandon students (Tandon students must be on the Tandon team and non-Tandon students must be registered on the CAS team). Both schools send multiple teams to the regional competition, usually 3 (6 teams in total).
