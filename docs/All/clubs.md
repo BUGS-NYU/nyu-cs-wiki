@@ -32,9 +32,9 @@ In general, there isn't a "best" way of finding clubs but there are a few resour
 
     Tech@NYU is a space for artists, makers and hackers to build stuff together, learn new skills, and explore opportunities in tech. The club has consistent workshop events, mentorship (giving a chance for students to work with tech@nyu alumni and receive guidance from industry professionals) and Tech Treks (a tight-knit cohort for students unfamiliar with the tech industry).
 
-- WINC (Courant) - [Website](https://nyuwinc.org/), [Instagram](https://www.instagram.com/nyuwinc/)
+- WinC (Courant) - [Website](https://nyuwinc.org/), [Instagram](https://www.instagram.com/nyuwinc/)
 
-    WINC is a student run club which provides a community for NYU students, faculty, and professionals from different companies around New York. They often hold tech talks by female engineers, recruiting events, and other events partnering with tech companies. At their events, students learn about scholarships, internships, and full-time jobs, and learn new skills from the club's eboard. 
+    WinC is a student run club which provides a community for NYU students, faculty, and professionals from different companies around New York. They often hold tech talks by female engineers, recruiting events, and other events partnering with tech companies. At their events, students learn about scholarships, internships, and full-time jobs, and learn new skills from the club's eboard. 
 
 - Girls who Code (Tandon) - [Engage](https://engage.nyu.edu/organization/girlswhocode), [Website](https://sites.google.com/nyu.edu/nyugwc/home), [Discord](https://discord.com/invite/WcErFWFTTX)
 
