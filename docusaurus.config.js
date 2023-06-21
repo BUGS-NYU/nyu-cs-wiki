@@ -85,12 +85,28 @@ const config = {
             docId: 'CAS/intro',
             position: 'left',
             label: 'CAS',
+            items : [
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'casSidebar',
+              },
+
+            ],
           },
           {
             type: 'doc',
             docId: 'Tandon/intro',
             position: 'left',
             label: 'Tandon',
+            items : [
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'tanSidebar',
+              },
+
+            ],
           },
         ],
       },
