@@ -79,6 +79,14 @@ const config = {
             docId: 'All/intro',
             position: 'left',
             label: 'All Students',
+            items : [
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'allSidebar',
+              },
+
+            ],
           },
           {
             type: 'doc',
