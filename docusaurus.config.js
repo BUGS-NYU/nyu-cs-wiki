@@ -79,18 +79,42 @@ const config = {
             docId: 'All/intro',
             position: 'left',
             label: 'All Students',
+            items : [
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'allSidebar',
+              },
+
+            ],
           },
           {
             type: 'doc',
             docId: 'CAS/intro',
             position: 'left',
             label: 'CAS',
+            items : [
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'casSidebar',
+              },
+
+            ],
           },
           {
             type: 'doc',
             docId: 'Tandon/intro',
             position: 'left',
             label: 'Tandon',
+            items : [
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'tanSidebar',
+              },
+
+            ],
           },
         ],
       },
