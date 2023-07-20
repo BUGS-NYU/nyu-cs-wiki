@@ -101,3 +101,6 @@ tags:
  - [CommIT Group at NYU – Professor of ECE@ NYU](https://wp.nyu.edu/elza_erkip/)
  - [BAAHL | Brooklyn Application, Architecture, and Hardware Lab](https://wp.nyu.edu/baahl/)
  - [Advanced Ophthalmic Imaging Lab | NYU Langone Health](https://med.nyu.edu/research/advanced-ophthalmic-imaging-lab/)
+ - [Dynamical Systems Group at Courant (L Young)](https://cims.nyu.edu/~lsy/dynamics-group.html)
+ - [Dynamical Systems Laboratory - Dynamical Systems Laboratory](https://cims.nyu.edu/~lsy/dynamics-group.html)
+ - [Human and Machine Learning Lab](https://lake-lab.github.io/)
