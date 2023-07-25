@@ -1,0 +1,10 @@
+.github/
+.cache/
+.gitignore
+.eslintignore
+node_modules
+docs
+static
+package.json
+package-lock.json
+*.config.js
