@@ -128,11 +128,6 @@ tags:
 
  - [Advanced Ophthalmic Imaging Lab](https://med.nyu.edu/research/advanced-ophthalmic-imaging-lab/): The Advanced Ophthalmic Imaging Lab at NYU Langone is a team of ophthalmologists, engineers, software specialists, statisticians, and trainees that focus primarily on glaucoma research.
 
-## NYU IDM:
-
- - [Mobile AR @ NYU](http://mobilearlab.bxmc.poly.edu/)
- - [/ IDM XR Lab / – 👾 🤖 🧠 🥽 🌏 🎧 🎮](https://wp.nyu.edu/idmxrlab/)
-
 ## Across Schools:
 
  - [NYU Ability Project](https://wp.nyu.edu/ability/): AN INTERDISCIPLINARY RESEARCH SPACE DEDICATED TO THE INTERSECTION BETWEEN DISABILITY AND TECHNOLOGY. We foster collaboration between assistive technology users, engineers, designers, educators, artists, occupational and physical therapists, speech language pathologists, and disability consultants. The Ability Project is open to all NYU students and faculty looking to create inclusive systems, design human­-centered projects, and further understanding and research in the area of ability.  
@@ -157,6 +152,6 @@ tags:
 
  - [NYU CTED](https://www.nyucted.org/): The Center for Technology and Economic Development (CTED) focuses on the development of innovative and cutting-edge technologies to significantly impact economic development with a specific focus on problems faced in underdeveloped areas around the world.  Spanning Africa, Asia, and the Gulf, CTED’s research covers economic theory, global labor markets, migration, and the impact of technology on development. 
 
- - [Machine Learning for Good Laboratory](https://wp.nyu.edu/ml4good/)
+ - [Machine Learning for Good Laboratory](https://wp.nyu.edu/ml4good/): Our lab is focused on development of novel machine learning methods for addressing critical urban problems.  By creating, deploying, and evaluating new methods in collaboration with public sector partners, we hope both to advance the state of the art in machine learning and to improve the quality of public health, safety, and security. We are particularly interested in solving challenging urban problems where off-the-shelf machine learning methods are insufficient and new innovations are required.
 
  - [Climate & Ocean Physics @ NYU](https://zanna-researchteam.github.io/): Our group aims to advance the fundamental understanding of ocean dynamics and its role in the climate system in order to improve climate change projections.
