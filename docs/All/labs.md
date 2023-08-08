@@ -6,8 +6,6 @@ tags:
 ---
 # Labs
 
- - [OLAB](https://www.nyuolab.org/main/#home): We’re interested in human and artificial intelligence. We use artificial intelligence (AI) to better understand and care for the human brain, and in study the human brain to build better AI. 
-
 ## CILVR
 
  - [CILVR at NYU](https://wp.nyu.edu/cilvr/): The CILVR Lab (Computational Intelligence, Learning, Vision, and Robotics) regroups faculty members, research scientists, postdocs, and students working on AI, machine learning, and a wide variety of applications, notably computer perception, natural language understanding, robotics, and healthcare. Follow us @CILVRatNYU on Twitter!
@@ -120,7 +118,7 @@ tags:
 
  - [Dynamical Systems Group](https://cims.nyu.edu/~lsy/dynamics-group.html): Dynamical systems theory and applications, geometric and ergodic theory of chaotic systems, connections to probability and statistical physics, computational modeling and theoretical neuroscience
 
- ## NYU Langone Health:
+## NYU Langone Health:
 
  - [Center for Healthcare Innovation & Delivery Science | NYU Langone Health](https://med.nyu.edu/centers-programs/healthcare-innovation-delivery-science/): The Center for Healthcare Innovation and Delivery Science (CHIDS) is a group of clinicians, researchers, educators, and administrators who work together to redesign healthcare. Our mission is to improve patient health and wellbeing by fostering the development of effective, efficient, and patient-centered healthcare systems at NYU Langone Health and nationally. To do this, we conduct and support novel healthcare delivery redesign interventions, provide evaluations of existing intervations across our system, make use of new digital design and clinical informatics methods, create and deploy predictive analytic models, explore the effects of national and local policies on outcomes, and provide training in healthcare delivery science.
 
@@ -135,6 +133,8 @@ tags:
  - [Urban Intelligence Lab](https://www.urbanintelligencelab.org/): The Urban Intelligence Lab, and its Civic Analytics program, works directly with city agencies and non-profit organizations to conduct rigorous, problem-oriented research that serves the dual purpose to advance our scientific understanding of cities and have a direct impact on public sector decision-making. Our goals are to bring evidence to policy-making, to democratize knowledge through information transparency, and to analyze and address the root causes and disparate impact of discrimination and bias embedded in urban analytics.
 
 ## Other:
+
+ - [OLAB](https://www.nyuolab.org/main/#home): We’re interested in human and artificial intelligence. We use artificial intelligence (AI) to better understand and care for the human brain, and in study the human brain to build better AI. 
 
  - [Applied Dynamics and Optimization Laboratory](https://wp.nyu.edu/adol/): Our lab’s broad research areas include dynamics, control, and optimization of mechanical systems. Main domains for implementations and applications include robotic and biomechanical systems and their intersections such as lower-body wearable robots.
 
