@@ -3,6 +3,8 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const repo = 'https://github.com/BUGS-NYU/nyu-cs-wiki';
+const branch = 'main'
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -33,25 +35,23 @@ const config = {
     locales: ['en'],
   },
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+  // add mermaid support
   presets: [
     [
       'classic',
+      // 'classic'
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/BUGS-NYU/nyu-cs-wiki/tree/main/',
+            `${repo}/tree/${branch}/`,
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -76,42 +76,42 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'All/intro',
+            docId: 'Academics/Academics',
             position: 'left',
-            label: 'All Students',
-            items : [
+            label: 'Academics',
+            items: [
 
               {
                 type: 'docSidebar',
-                sidebarId: 'allSidebar',
+                sidebarId: 'academicsSidebar',
               },
 
             ],
           },
           {
             type: 'doc',
-            docId: 'CAS/intro',
+            docId: 'Opportunities/Opportunities',
             position: 'left',
-            label: 'CAS',
-            items : [
+            label: 'Opportunities',
+            items: [
 
               {
                 type: 'docSidebar',
-                sidebarId: 'casSidebar',
+                sidebarId: 'opportunitiesSidebar',
               },
 
             ],
           },
           {
             type: 'doc',
-            docId: 'Tandon/intro',
+            docId: 'Social/Social',
             position: 'left',
-            label: 'Tandon',
-            items : [
+            label: 'Social',
+            items: [
 
               {
                 type: 'docSidebar',
-                sidebarId: 'tanSidebar',
+                sidebarId: 'socialSidebar',
               },
 
             ],
@@ -125,16 +125,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'All Students',
-                to: '/docs/All/intro',
+                label: 'Academics',
+                to: '/docs/Academics',
               },
               {
-                label: 'CAS Students',
-                to: '/docs/CAS/intro',
+                label: 'Opportunities',
+                to: '/docs/Opportunities',
               },
               {
-                label: 'Tandon Students',
-                to: '/docs/Tandon/intro',
+                label: 'Social',
+                to: '/docs/Social',
               },
             ],
           },
@@ -164,11 +164,31 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Software Used',
+            items: [
+              {
+                label: 'NPM Packages',
+                href: `${repo}/blob/${branch}/SOFTWARE`,
+              },
+              {
+                label: 'DALLE2',
+                href: 'https://openai.com/dall-e-2',
+              },
+            ],
+          },
+
         ],
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      mermaid: {
+        theme: {
+          light: 'default',
+          dark: 'dark'
+        },
       },
     }),
 };

@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/all/intro">
+            to="/docs/Academics">
             Go to Wiki ⏱️
           </Link>
         </div>
@@ -34,19 +34,7 @@ export default function Home() {
       description="CS wiki for NYU students">
       <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
-        {/* <section className={styles.features}>
-          <div className="container item shadow--md">
-            <div className="row">
-              <div className={clsx('col col--4')}>
-                <div className="text--center padding-horiz--md">
-                  <h3>title</h3>
-                  <p>description</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section> */}
+        <HomepageFeatures />
       </main>
     </Layout>
   );
