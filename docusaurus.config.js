@@ -169,7 +169,7 @@ const config = {
             items: [
               {
                 label: 'NPM Packages',
-                href: `${repo}/blob/${branch}/SOFTWARE`,
+                href: `/docs/packages`,
               },
               {
                 label: 'DALLE2',
