@@ -7,6 +7,7 @@ tags:
   - Clubs
   - Social
   - Student
+sidebar_position: 4
 ---
 
 # Vertically Integrated Projects
