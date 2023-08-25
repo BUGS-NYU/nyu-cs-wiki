@@ -3,7 +3,7 @@
 
 ## What is this❓
 
-CS has become increasingly competitive. We create this website as a way to help students identify resources to further their education and career.
+CS has become increasingly competitive. We created this website as a way to help students identify resources to further their education and career.
 
 The website consists of:
 
@@ -11,7 +11,7 @@ The website consists of:
 - Opportunities (doing well career-wise or with research)
 - Social (fun activities)
 
-BUGS@NYU believes these resources should be available to the CS community at NYU both at CAS and Tandon for students to prepare for their career. Please help by creating posts to better NYU CS community!
+BUGS@NYU believes these resources should be available to the CS community at NYU both at CAS and Tandon for students to prepare for their career. Please help by creating posts to better the NYU CS community!
 
 ## 👨‍💻👩‍💻 Contributing
 
