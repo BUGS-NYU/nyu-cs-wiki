@@ -3,6 +3,7 @@ import clsx from 'clsx'
 import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import Layout from '@theme/Layout'
+import HomepageFeatures from '../components/HomepageFeatures'
 
 import styles from './index.module.css'
 
@@ -16,8 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/all/intro"
-          >
+            to="/docs/Academics">
             Go to Wiki ⏱️
           </Link>
         </div>
@@ -35,19 +35,7 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
-        {/* <section className={styles.features}>
-          <div className="container item shadow--md">
-            <div className="row">
-              <div className={clsx('col col--4')}>
-                <div className="text--center padding-horiz--md">
-                  <h3>title</h3>
-                  <p>description</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section> */}
+        <HomepageFeatures />
       </main>
     </Layout>
   )
