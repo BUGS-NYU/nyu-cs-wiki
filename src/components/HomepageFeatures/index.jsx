@@ -6,7 +6,7 @@ const FeatureList = [
   {
     title: 'Academics',
     url: './docs/Academics',
-    svg: 'img/high-res/academics.svg',
+    svg: 'img/icon/academics.svg',
     description: (
       <>
         How to navigate NYU academics.
@@ -16,7 +16,7 @@ const FeatureList = [
   {
     title: 'Opportunities',
     url: './docs/Opportunities',
-    svg: '/img/high-res/opportunities.svg',
+    svg: '/img/icon/opportunities.svg',
     description: (
       <>
         Which opportunities to pursue (and how to get them) inside and outside of NYU.
@@ -26,7 +26,7 @@ const FeatureList = [
   {
     title: 'Social',
     url: './docs/Social',
-    svg: '/img/high-res/social.svg',
+    svg: '/img/icon/social.svg',
     description: (
       <>
         Other fun stuff about NYU CS.
