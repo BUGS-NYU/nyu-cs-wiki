@@ -30,21 +30,20 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-
-p a {
+.theme-doc-markdown a {
   --ifm-link-decoration: none;
   --ifm-link-hover-decoration: none;
   border-bottom: 1px solid #57068c33;
 }
 
-p a:hover {
+.theme-doc-markdown a:hover {
   border-bottom: 1px solid #57068c;
 }
 
-[data-theme='dark'] p a {
+[data-theme='dark'] .theme-doc-markdown a {
   border-bottom: 1px solid #9f70bd44;
 }
 
-[data-theme='dark'] p a:hover {
+[data-theme='dark'] .theme-doc-markdown a:hover {
   border-bottom: 1px solid #c2a4d5;
 }
