@@ -4,6 +4,7 @@ tags:
   - CAS
   - Tandon
   - Clubs
+  - Student
 ---
 
 # Clubs

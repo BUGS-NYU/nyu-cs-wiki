@@ -6,6 +6,7 @@ tags:
   - Classes
   - Clubs
   - Social
+  - Student
 ---
 
 # Vertically Integrated Projects
