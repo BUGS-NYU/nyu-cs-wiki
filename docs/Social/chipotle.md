@@ -15,7 +15,7 @@ Manhattan:
 
 Brooklyn:
 
-- [1 MetroTech Center, Brooklyn, NY 11201](https://goo.gl/maps/Zhq3mnZryHnAY9g87): Close to Tandon so very conveninent but it can also get crowded since everyone likes to go there during their lunch break. I would recommend trying to avoid between 12pm - 2pm. 
+- [1 MetroTech Center, Brooklyn, NY 11201](https://goo.gl/maps/Zhq3mnZryHnAY9g87): Close to Tandon so very convenient but it can also get crowded since everyone likes to go there during their lunch break. I would recommend trying to avoid between 12pm - 2pm. 
 - [474 Fulton St, Brooklyn, NY 11201](https://goo.gl/maps/jXwYPkGQEQn9rATt9): Close to Dekalb; it's decent but you should probably go to Dekalb.
 
 Bonus: 
