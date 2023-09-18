@@ -68,8 +68,8 @@ const config = {
         title: 'NYU CS Wiki',
         logo: {
           alt: 'BUGS',
-          src: 'img/logo.svg',
-          srcDark: 'img/logo_white.svg',
+          src: 'img/light/logo.svg',
+          srcDark: 'img/dark/logo.svg',
           width: 32,
           height: 32,
         },
