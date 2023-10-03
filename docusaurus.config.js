@@ -76,7 +76,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Academics/Academics',
+            docId: 'Academics/academics',
             position: 'left',
             label: 'Academics',
             items: [
@@ -90,7 +90,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Opportunities/Opportunities',
+            docId: 'Opportunities/opportunities',
             position: 'left',
             label: 'Opportunities',
             items: [
@@ -104,7 +104,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Social/Social',
+            docId: 'Social/social',
             position: 'left',
             label: 'Social',
             items: [
