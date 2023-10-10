@@ -171,10 +171,6 @@ const config = {
                 label: 'NPM Packages',
                 href: `/docs/packages`,
               },
-              {
-                label: 'DALLE2',
-                href: 'https://openai.com/dall-e-2',
-              },
             ],
           },
 
