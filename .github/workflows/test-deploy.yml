@@ -11,6 +11,7 @@ jobs:
   test-deploy:
     name: Install, lint and build
     runs-on: ubuntu-latest
+    environment: github-pages
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -28,4 +29,3 @@ jobs:
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
           ALGOLIA_SEARCH_API_KEY: ${{ secrets.ALGOLIA_SEARCH_API_KEY }}
           ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
-          TEST_ID: ${{ secrets.TEST_SECRET }}
