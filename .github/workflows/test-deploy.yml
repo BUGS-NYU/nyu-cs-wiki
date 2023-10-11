@@ -11,6 +11,7 @@ jobs:
   test-deploy:
     name: Install, lint and build
     runs-on: ubuntu-latest
+    environment: github-pages
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
