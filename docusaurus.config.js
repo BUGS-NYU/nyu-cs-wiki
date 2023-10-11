@@ -66,7 +66,8 @@ const config = {
       algolia: {
         appId: process.env.ALGOLIA_APP_ID,
         apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME
+        indexName: process.env.ALGOLIA_INDEX_NAME,
+        placeholder: 'Search NYU CS Wiki'
       },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
