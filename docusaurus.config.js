@@ -7,6 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const repo = 'https://github.com/BUGS-NYU/nyu-cs-wiki';
 const branch = 'main'
 
+console.log(process.env.TEST_ID)
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'NYU CS Wiki',
