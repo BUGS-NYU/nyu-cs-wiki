@@ -12,7 +12,7 @@ sidebar_position: 4
 
 # Vertically Integrated Projects
 
-[Vertically Integrated Projects (VIP)](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects) are a unique long-term and large-scale project led by a faculty member at NYU. Aftering applying, accepted students enroll in a VIP course in Albert like any other class. VIP can be taken for credit, usually 1. Up to 6 credits can be earned over multiple semesters. Different VIP teams have different needs and requirements. Generally, you can expect to spend a couple hours per week on VIP. VIP is a great way to get involved in research and work on a project that you are passionate about. VIP is also a great way to meet other students and faculty.
+[Vertically Integrated Projects (VIP)](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects) are a unique long-term and large-scale project led by a faculty member at NYU. After applying, accepted students enroll in a VIP course in Albert like any other class. VIP can be taken for credit, usually 1. Up to 6 credits can be earned over multiple semesters. Different VIP teams have different needs and requirements. Generally, you can expect to spend a couple hours per week on VIP. VIP is a great way to get involved in research and work on a project that you are passionate about. VIP is also a great way to meet other students and faculty.
 
 ## Teams
 
