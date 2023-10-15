@@ -63,12 +63,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        appId: process.env.ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME,
-        searchPagePath: false,
-      },
+
+	// Checks if all environment variables are in place. Only adds to config
+	    // if they it all passes
+	
+	
+      	...(process.env.ALGOLIA_APP_ID && 
+		process.env.ALGOLIA_SEARCH_API_KEY &&
+		process.env.ALGOLIA_INDEX_NAME && 
+		{
+      			algolia: {
+        		appId: process.env.ALGOLIA_APP_ID,
+        		apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
+        		indexName: process.env.ALGOLIA_INDEX_NAME,
+        		searchPagePath: false,
+      		}}),
+
+
+
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
