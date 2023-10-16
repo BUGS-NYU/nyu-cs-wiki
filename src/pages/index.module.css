@@ -30,3 +30,8 @@
   padding: 2rem 0;
   width: 100%;
 }
+
+.disclaimer {
+  text-align: center;
+  color: grey;
+}
