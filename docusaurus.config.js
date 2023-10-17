@@ -2,9 +2,9 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 require('dotenv').config()
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const repo = 'https://github.com/BUGS-NYU/nyu-cs-wiki';
+const lightCodeTheme = require('prism-react-renderer/themes/github')
+const darkCodeTheme = require('prism-react-renderer/themes/dracula')
+const repo = 'https://github.com/BUGS-NYU/nyu-cs-wiki'
 const branch = 'main'
 
 /** @type {import('@docusaurus/types').Config} */
@@ -176,7 +176,7 @@ const config = {
             items: [
               {
                 label: 'NPM Packages',
-                href: `/docs/packages`,
+                href: '/docs/packages',
               },
             ],
           },
@@ -194,6 +194,6 @@ const config = {
         },
       },
     }),
-};
+}
 
-module.exports = config;
+module.exports = config
