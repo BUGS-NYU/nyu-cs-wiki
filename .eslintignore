@@ -7,4 +7,3 @@ docs
 static
 package.json
 package-lock.json
-*.config.js

@@ -2,22 +2,29 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 require('dotenv').config()
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const repo = 'https://github.com/BUGS-NYU/nyu-cs-wiki';
+const lightCodeTheme = require('prism-react-renderer/themes/github')
+const darkCodeTheme = require('prism-react-renderer/themes/dracula')
+const repo = 'https://github.com/BUGS-NYU/nyu-cs-wiki'
 const branch = 'main'
 
-function getAlgoliaConfig(config, requiredKeys = ['appId', 'apiKey', 'indexName']) {
+function getAlgoliaConfig(
+  config,
+  requiredKeys = ['appId', 'apiKey', 'indexName']
+) {
   // filter missing required keys
-  const missingKeys = requiredKeys.filter(key => config[key] === undefined);
+  const missingKeys = requiredKeys.filter((key) => config[key] === undefined)
 
   // if some keys are missing, return undefined
   if (missingKeys.length > 0) {
-    console.error(`Could not bootstrap Algolia search in docusaurus config, missing the following configuration values: ${missingKeys.join(',')}`);
-    return undefined;
+    console.error(
+      `Could not bootstrap Algolia search in docusaurus config, missing the following configuration values: ${missingKeys.join(
+        ','
+      )}`
+    )
+    return undefined
   }
 
-  return config;
+  return config
 }
 
 /** @type {import('@docusaurus/types').Config} */
@@ -46,11 +53,11 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en']
   },
 
   markdown: {
-    mermaid: true,
+    mermaid: true
   },
   themes: ['@docusaurus/theme-mermaid'],
 
@@ -63,14 +70,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            `${repo}/tree/${branch}/`,
+          editUrl: `${repo}/tree/${branch}/`
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      }),
-    ],
+          customCss: require.resolve('./src/css/custom.css')
+        }
+      })
+    ]
   ],
 
   themeConfig:
@@ -81,7 +87,7 @@ const config = {
         appId: process.env.ALGOLIA_APP_ID,
         apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
         indexName: process.env.ALGOLIA_INDEX_NAME,
-        searchPagePath: false,
+        searchPagePath: false
       }),
 
       // Replace with your project's social card
@@ -93,7 +99,7 @@ const config = {
           src: 'img/light/logo.svg',
           srcDark: 'img/dark/logo.svg',
           width: 32,
-          height: 32,
+          height: 32
         },
         items: [
           {
@@ -102,13 +108,11 @@ const config = {
             position: 'left',
             label: 'Academics',
             items: [
-
               {
                 type: 'docSidebar',
-                sidebarId: 'academicsSidebar',
-              },
-
-            ],
+                sidebarId: 'academicsSidebar'
+              }
+            ]
           },
           {
             type: 'doc',
@@ -116,13 +120,11 @@ const config = {
             position: 'left',
             label: 'Opportunities',
             items: [
-
               {
                 type: 'docSidebar',
-                sidebarId: 'opportunitiesSidebar',
-              },
-
-            ],
+                sidebarId: 'opportunitiesSidebar'
+              }
+            ]
           },
           {
             type: 'doc',
@@ -130,15 +132,13 @@ const config = {
             position: 'left',
             label: 'Social',
             items: [
-
               {
                 type: 'docSidebar',
-                sidebarId: 'socialSidebar',
-              },
-
-            ],
-          },
-        ],
+                sidebarId: 'socialSidebar'
+              }
+            ]
+          }
+        ]
       },
       footer: {
         style: 'dark',
@@ -148,67 +148,66 @@ const config = {
             items: [
               {
                 label: 'Academics',
-                to: '/docs/Academics',
+                to: '/docs/Academics'
               },
               {
                 label: 'Opportunities',
-                to: '/docs/Opportunities',
+                to: '/docs/Opportunities'
               },
               {
                 label: 'Social',
-                to: '/docs/Social',
-              },
-            ],
+                to: '/docs/Social'
+              }
+            ]
           },
           {
             title: 'Community',
             items: [
               {
                 label: 'BUGS Homepage',
-                href: 'https://bugsnyu.com',
+                href: 'https://bugsnyu.com'
               },
               {
                 label: 'Discord',
-                href: 'https://discord.com/invite/75jgtXy7rz',
+                href: 'https://discord.com/invite/75jgtXy7rz'
               },
               {
                 label: 'Instagram',
-                href: 'https://www.instagram.com/nyubugs/',
-              },
-            ],
+                href: 'https://www.instagram.com/nyubugs/'
+              }
+            ]
           },
           {
             title: 'Contribute',
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/BUGS-NYU',
-              },
-            ],
+                href: 'https://github.com/BUGS-NYU'
+              }
+            ]
           },
           {
             title: 'Software Used',
             items: [
               {
                 label: 'NPM Packages',
-                href: `/docs/packages`,
-              },
-            ],
-          },
-
-        ],
+                href: `/docs/packages`
+              }
+            ]
+          }
+        ]
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        darkTheme: darkCodeTheme
       },
       mermaid: {
         theme: {
           light: 'default',
           dark: 'dark'
-        },
-      },
-    }),
-};
+        }
+      }
+    })
+}
 
-module.exports = config;
+module.exports = config
