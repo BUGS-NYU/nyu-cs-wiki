@@ -7,6 +7,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const repo = 'https://github.com/BUGS-NYU/nyu-cs-wiki';
 const branch = 'main'
 
+function getAlgoliaConfig(config, requiredKeys = ['appId', 'apiKey', 'indexName']) {
+  // filter missing required keys
+  const missingKeys = requiredKeys.filter(key => config[key] === undefined);
+
+  // if some keys are missing, return undefined
+  if (missingKeys.length > 0) {
+    console.error(`Could not bootstrap Algolia search in docusaurus config, missing the following configuration values: ${missingKeys.join(',')}`);
+    return undefined;
+  }
+
+  return config;
+}
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'NYU CS Wiki',
@@ -63,12 +76,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
+      // Checks if all environment variables are in place - only adds to config if they it all passes
+      algolia: getAlgoliaConfig({
         appId: process.env.ALGOLIA_APP_ID,
         apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
         indexName: process.env.ALGOLIA_INDEX_NAME,
         searchPagePath: false,
-      },
+      }),
+
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
