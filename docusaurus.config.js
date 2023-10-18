@@ -12,7 +12,7 @@ function getAlgoliaConfig(
   requiredKeys = ['appId', 'apiKey', 'indexName']
 ) {
   // filter missing required keys
-  const missingKeys = requiredKeys.filter((key) => config[key] === undefined)
+  const missingKeys = requiredKeys.filter((key) => config[key] === undefined || config[key] === '')
 
   // if some keys are missing, return undefined
   if (missingKeys.length > 0) {
