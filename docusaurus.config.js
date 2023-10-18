@@ -21,6 +21,7 @@ function getAlgoliaConfig(
         ','
       )}`
     )
+
     return undefined
   }
 
