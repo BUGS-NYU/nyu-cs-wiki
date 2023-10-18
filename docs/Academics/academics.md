@@ -5,4 +5,4 @@ title: Introduction
 
 # Academics
 
-All information relevant to taking and succeeding in NYU CS courses
+All information relevant to taking and succeeding in NYU CS courses.

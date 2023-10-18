@@ -1,4 +1,5 @@
 ---
+sidebar_position: 6
 title: Vertically Integrated Projects
 tags:
   - CAS
@@ -7,7 +8,6 @@ tags:
   - Clubs
   - Social
   - Student
-sidebar_position: 4
 ---
 
 # Vertically Integrated Projects
@@ -16,8 +16,11 @@ sidebar_position: 4
 
 ## Teams
 
-A full list of teams is available on the [NYU website](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams).
+A full list of teams is available on the [NYU website](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams). 
+
+CS Wiki also has an organized list of teams sorted by category with short descriptions to help quickly differentiate them. They are accessible in the sidebar under VIPs.
 
 ## How to Apply
 
 On each team's page, there will be a link to an application form. Students can apply to VIP teams when registration opens for the upcoming semester. After being accepted by a team, you must enroll before the add/drop deadline in Albert. For more details, see the [NYU website](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-recruitment).
+
