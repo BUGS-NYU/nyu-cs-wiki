@@ -9,15 +9,15 @@ const branch = 'main'
 
 function getAlgoliaConfig(config, requiredKeys = ['appId', 'apiKey', 'indexName']) {
   // filter missing required keys
-  const missingKeys = requiredKeys.filter(key => config[key] === undefined);
+  const missingKeys = requiredKeys.filter(key => config[key] === undefined)
 
   // if some keys are missing, return undefined
   if (missingKeys.length > 0) {
-    console.error(`Could not bootstrap Algolia search in docusaurus config, missing the following configuration values: ${missingKeys.join(',')}`);
-    return undefined;
+    console.error(`Could not bootstrap Algolia search in docusaurus config, missing the following configuration values: ${missingKeys.join(',')}`)
+    return undefined
   }
 
-  return config;
+  return config
 }
 
 /** @type {import('@docusaurus/types').Config} */
