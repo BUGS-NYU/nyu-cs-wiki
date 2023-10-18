@@ -24,7 +24,7 @@ module.exports = {
   rules: {
     indent: ['error', 2],
     'linebreak-style': ['error', 'unix'],
-    quotes: ['error', 'single'],
+    quotes: ['error', 'single', { allowTemplateLiterals: true }],
     semi: ['error', 'never'],
     '@docusaurus/string-literal-i18n-messages': 0,
     '@docusaurus/no-untranslated-text': 0,

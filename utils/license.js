@@ -21,12 +21,14 @@ function writeMarkdown(pkgs) {
     packageName = packageName.split('@')
     let version = packageName.pop()
     let name = packageName.join('@')
-    let attr = [['Version', version],
+    let attr = [
+      ['Version', version],
       ['License', pkg.licenses],
       ['Repository', pkg.repository],
       ['Publisher', pkg.publisher],
       ['Email', pkg.email],
-      ['URL', pkg.url]]
+      ['URL', pkg.url]
+    ]
     outputString += '### ' + name + '\n'
 
     for (let i of attr) {
@@ -48,15 +50,17 @@ function writeMarkdown(pkgs) {
   })
 }
 
-licenseChecker.init({
-  start: dir,
-  production: true,
-  excludePrivatePackages: true,
-}, (err, pkgs) => {
-  if (err) {
-    console.log(err)
-  } else {
-    writeMarkdown(pkgs)
+licenseChecker.init(
+  {
+    start: dir,
+    production: true,
+    excludePrivatePackages: true
+  },
+  (err, pkgs) => {
+    if (err) {
+      console.log(err)
+    } else {
+      writeMarkdown(pkgs)
+    }
   }
-}
 )
