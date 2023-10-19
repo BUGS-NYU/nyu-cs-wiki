@@ -19,7 +19,7 @@ function getAlgoliaConfig(
   // if some keys are missing, return undefined
   if (missingKeys.length > 0) {
     // require all keys in production
-    if (process.env.NODE_ENV == 'production') {
+    if (process.env.NODE_ENV === 'production') {
       throw new Error('Missing Algolia config keys on production!')
     }
 
