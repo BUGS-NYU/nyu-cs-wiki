@@ -12,10 +12,17 @@ function getAlgoliaConfig(
   requiredKeys = ['appId', 'apiKey', 'indexName']
 ) {
   // filter missing required keys
-  const missingKeys = requiredKeys.filter((key) => config[key] === undefined)
+  const missingKeys = requiredKeys.filter(
+    (key) => config[key] === undefined || config[key] === ''
+  )
 
   // if some keys are missing, return undefined
   if (missingKeys.length > 0) {
+    // require all keys in production
+    if (process.env.ENVIRONMENT === 'production') {
+      throw new Error('Missing Algolia config keys on production!')
+    }
+
     console.error(
       `Could not bootstrap Algolia search in docusaurus config, missing the following configuration values: ${missingKeys.join(
         ','
