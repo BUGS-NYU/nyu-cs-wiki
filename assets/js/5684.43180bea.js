@@ -1,0 +1,1 @@
+(self.webpackChunknyu_cs_wiki=self.webpackChunknyu_cs_wiki||[]).push([[5684],{9039:(s,c,k)=>{"use strict";k.d(c,{Z:()=>e});var u=k(1336);const e=u},5525:()=>{}}]);
