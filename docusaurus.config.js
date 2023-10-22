@@ -39,9 +39,7 @@ const config = {
     mermaid: true
   },
 
-  themes: [
-    '@docusaurus/theme-mermaid',
-  ],
+  themes: ['@docusaurus/theme-mermaid'],
 
   presets: [
     [
@@ -59,13 +57,17 @@ const config = {
       })
     ]
   ],
-  
 
-  plugins: [[ require.resolve('docusaurus-lunr-search'), {
-    languages: ['en'],
-    excludeRoutes: ['/docs/packages'],
-  }]],
-  
+  plugins: [
+    [
+      require.resolve('docusaurus-lunr-search'),
+      {
+        languages: ['en'],
+        excludeRoutes: ['/docs/packages']
+      }
+    ]
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
