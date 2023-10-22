@@ -25,8 +25,3 @@ jobs:
         run: npm run lint
       - name: Test build website
         run: npm run build
-        env:
-          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
-          ALGOLIA_SEARCH_API_KEY: ${{ secrets.ALGOLIA_SEARCH_API_KEY }}
-          ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
-          ENVIRONMENT: development
