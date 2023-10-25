@@ -1,5 +1,4 @@
 ---
-sidebar_position: 6
 title: Vertically Integrated Projects
 tags:
   - CAS
