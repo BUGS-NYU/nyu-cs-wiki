@@ -38,7 +38,6 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
-      <h4 className={styles.disclaimer}>Not affiliated with NYU </h4>
     </Layout>
   )
 }
