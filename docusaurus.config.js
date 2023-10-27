@@ -176,9 +176,9 @@ const config = {
                 href: `/docs/packages`
               }
             ]
-          },   
+          }
         ],
-        copyright: `Not affiliated with NYU`,
+        copyright: `Not affiliated with NYU`
       },
       prism: {
         theme: lightCodeTheme,
@@ -189,7 +189,7 @@ const config = {
           light: 'default',
           dark: 'dark'
         }
-      },
+      }
     })
 }
 
