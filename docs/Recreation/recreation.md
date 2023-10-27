@@ -3,6 +3,6 @@ sidebar_position: 1
 title: Introduction
 ---
 
-# Social
+# Recreation
 
 Other fun stuff about being an NYU CS student.

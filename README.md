@@ -8,7 +8,7 @@ The website consists of:
 
 - Academics (excelling in coursework)
 - Opportunities (doing well career-wise or with research)
-- Social (fun activities)
+- Recreation (fun activities)
 
 BUGS@NYU believes these resources should be available to the CS community at NYU both at CAS and Tandon for students to prepare for their career. Please help by creating posts to better the NYU CS community!
 

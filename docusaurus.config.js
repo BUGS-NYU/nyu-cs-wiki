@@ -110,13 +110,13 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Social/social',
+            docId: 'Recreation/recreation',
             position: 'left',
-            label: 'Social',
+            label: 'Recreation',
             items: [
               {
                 type: 'docSidebar',
-                sidebarId: 'socialSidebar'
+                sidebarId: 'recreationSidebar'
               }
             ]
           }
@@ -137,8 +137,8 @@ const config = {
                 to: '/docs/Opportunities'
               },
               {
-                label: 'Social',
-                to: '/docs/Social'
+                label: 'Recreation',
+                to: '/docs/Recreation'
               }
             ]
           },

@@ -24,10 +24,10 @@ const FeatureList = [
     )
   },
   {
-    title: 'Social',
-    url: './docs/Social',
-    svg: 'img/light/social.svg',
-    svgDark: 'img/dark/social.svg',
+    title: 'Recreation',
+    url: './docs/Recreation',
+    svg: 'img/light/recreation.svg',
+    svgDark: 'img/dark/recreation.svg',
     description: <>Other fun stuff about NYU CS.</>
   }
 ]
