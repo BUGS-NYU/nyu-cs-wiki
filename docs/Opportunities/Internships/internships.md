@@ -6,11 +6,11 @@ tags:
   - Planning
 ---
 
-# Interships
+# Internships
 
 ## Why
 
-Internships are a great way to get work experience. Not only do they make you a more competitive applicant when looking for a job after graduation, most companies will offer return offers to previous interns.
+Internships are a great way to get work experience. Not only do they make you a more competitive applicant when looking for a job after graduation, most companies will offer return offers to previous interns. Internships also teach you industry knowledge that you will not learn in any of your classes.
 
 ## When
 
