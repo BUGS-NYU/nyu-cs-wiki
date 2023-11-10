@@ -177,7 +177,8 @@ const config = {
               }
             ]
           }
-        ]
+        ],
+        copyright: `Not affiliated with NYU`
       },
       prism: {
         theme: lightCodeTheme,
