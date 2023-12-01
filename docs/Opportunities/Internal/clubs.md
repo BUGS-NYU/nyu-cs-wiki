@@ -12,7 +12,8 @@ sidebar_position: 3
 
 In general, there isn't a "best" way of finding clubs but there are a few resources that can be used to help find clubs. NYU Engage is the main campus-wide platform used and it can show a list of clubs that are available at NYU and provide reminders for upcoming events. A newer option is using the NYU student hub on [Discord](https://discord.com/student-hubs) which can make it easy to discover more active clubs on campus. There are also the individual school club discovery pages though they often are not kept up to date (ex. [CAS](https://nyucassc.com/cas-clubs) and [Tandon](https://engineering.nyu.edu/life-tandon/student-life/student-organizations)).
 
-## Notable CS Clubs <!-- Link priority: engage > website > social media (discord > instagram) -->
+## Notable CS Clubs
+<!-- Link priority: engage > website > social media (discord > instagram) -->
 
 - BUGS (CAS) - [Engage](https://engage.nyu.edu/organization/bugs-open-source-at-nyu), [Website](https://www.bugsnyu.com/), [Discord](https://discord.gg/75jgtXy7rz), [Instagram](https://www.instagram.com/nyubugs/)
 
