@@ -178,6 +178,7 @@ const config = {
             ]
           }
         ],
+        copyright: "Written by BUGS@NYU - Unaffiliated with New York University",
       },
       prism: {
         theme: lightCodeTheme,
@@ -188,7 +189,7 @@ const config = {
           light: 'default',
           dark: 'dark'
         }
-      }
+      },
     })
 }
 
