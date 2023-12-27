@@ -17,10 +17,8 @@ If you're new to computer science, a hackathon is a great way to get your hands 
 
 A hackathon is an event where people engage in rapid and collaborative engineering over a relatively short period of time such as 24 or 48 hours. Participants form teams to work on a project, often with a specific theme or to solve a particular problem. It's a space where ideas are transformed into reality, where you're encouraged to think outside the box and push boundaries.
 
-# Hackathons at NYU
+# Popular Hackathons
 
-### HackNYU
-
-[HackNYU](https://hacknyu.org/) is a 48-hour Global Hackathon Hosted by NYU. It's a great opportunity to showcase your problem solving skills and technical abilities. 
-
-HackNYU also has a mini hackathon called mini-HackNYU which follows a similar format but with a shortened timeframe of 12 hours
+| Name                                                                                                      | Location        | Notes                                                                   |
+| --------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------------------------- |
+| [HackNYU](https://hacknyu.org/)                                                                             | Global             | A 48-hour Global Hackathon Hosted by NYU |
