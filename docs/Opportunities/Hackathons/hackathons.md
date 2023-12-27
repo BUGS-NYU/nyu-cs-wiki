@@ -21,4 +21,4 @@ A hackathon is an event where people engage in rapid and collaborative engineeri
 
 | Name                                                                                                      | Location        | Notes                                                                   |
 | --------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------------------------- |
-| [HackNYU](https://hacknyu.org/)                                                                             | Global             | A 48-hour Global Hackathon Hosted by NYU |
+| [HackNYU](https://hacknyu.org/)                                                                             | New York, New York | A 48-hour Global Hackathon Hosted by NYU |
