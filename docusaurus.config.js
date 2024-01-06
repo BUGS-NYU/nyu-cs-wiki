@@ -155,7 +155,7 @@ const config = {
               },
               {
                 label: 'Instagram',
-                href: 'https://www.instagram.com/nyubugs/'
+                href: 'https://www.instagram.com/bugsnyu/'
               }
             ]
           },
@@ -178,7 +178,7 @@ const config = {
             ]
           }
         ],
-        copyright: "Written by BUGS@NYU - Unaffiliated with New York University",
+        copyright: 'Written by BUGS@NYU - Unaffiliated with New York University'
       },
       prism: {
         theme: lightCodeTheme,
@@ -189,7 +189,7 @@ const config = {
           light: 'default',
           dark: 'dark'
         }
-      },
+      }
     })
 }
 
