@@ -12,6 +12,7 @@ Manhattan:
 - [405 6th Ave, New York, NY 10014](https://www.openstreetmap.org/node/10709962653): Close to GCASL and the quality is decent. However, this store is about $1 more expensive than the one near Tandon (generally more expensive in Manhattan).
 - [55 E 8th St Frnt 2, New York, NY 10003](https://www.openstreetmap.org/node/2547165967): Also close to GCASL but the quality is consistently bad. Avoid this location if you can!
 - [625 Broadway, New York, NY 10012](https://www.openstreetmap.org/node/4255253129): Close to the Broadway-Lafayette train station and the quality is good.
+- [71 Spring St, New York, NY 10012](https://www.openstreetmap.org/node/5523437746): Close to Broome St Residence Hall. Tends to be stingy with the meat.
 
 Brooklyn:
 
