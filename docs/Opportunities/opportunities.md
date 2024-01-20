@@ -15,6 +15,7 @@ flowchart TD
     j --> fellowships[Fellowships]
     j --> p[Projects]
     p --> ip[Individual Projects]
+    p --> hackathons[Hackathons]
     p --> vip[Vertically Integrated Projects]
     p --> clubs[Clubs]
     
