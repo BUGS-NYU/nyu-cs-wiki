@@ -165,6 +165,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/BUGS-NYU'
+              },
+              {
+                label: 'Leaderboard',
+                href: 'https://github.com/BUGS-NYU/nyu-cs-wiki/graphs/contributors'
               }
             ]
           },
