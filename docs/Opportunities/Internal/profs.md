@@ -101,7 +101,7 @@ This is a semi-complete list of faculty involved with Computer Science or Comput
 - https://cims.nyu.edu/~pehersto/
 - https://cs.nyu.edu/~perlin/
 - https://www.lerrelpinto.com/
-- https://www.startpage.com/do/dsearch?q=Michael+Picheny&cat=web&language=english
+- https://sites.google.com/nyu.edu/picheny-nyu
 - https://cims.nyu.edu/gcl/daniele.html
 - https://sunoopark.com/
 - https://www.mihirpatil.com/
