@@ -22,3 +22,4 @@ Fellowship pairs students with opportunities at start-ups or open source project
 | [Bessemer Fellows](https://www.bvp.com/bessemer-fellows)                                                  | Various         |                                                                         |
 | [Rabbitholeathon](https://www.rabbitholeathon.com/)                                                      | Austin, Texas   | Reading retreat rather than writing code                                |
 | [Recurse Center](https://www.recurse.com/)                                                      | Brooklyn/Virtual | 6 or 12 week retreat to work on open source
+| [LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/)                                                      | Virtual | Linux Foundation backed program to contribute to selected projects with a stipend
