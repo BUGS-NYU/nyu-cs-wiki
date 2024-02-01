@@ -20,4 +20,5 @@ Fellowship pairs students with opportunities at start-ups or open source project
 | [INSAIT](https://insait.ai/surf/)                                                                         | Various         |                                                                         |
 | [Cyber Fellows](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows) | Various         |                                                                         |
 | [Bessemer Fellows](https://www.bvp.com/bessemer-fellows)                                                  | Various         |                                                                         |
-| [Rabbitholeathon](hhttps://www.rabbitholeathon.com/)                                                      | Austin, Texas   | Reading retreat rather than writing code                                |
+| [Rabbitholeathon](https://www.rabbitholeathon.com/)                                                      | Austin, Texas   | Reading retreat rather than writing code                                |
+| [Recurse Center](https://www.recurse.com/)                                                      | Brooklyn/Virtual | 6 or 12 week retreat to work on open source
