@@ -39,6 +39,8 @@ A list of useful free resources provided by NYU or are free for university stude
   - Online LaTeX editor with real-time collaboration.
 - [Printing](https://www.nyu.edu/life/information-technology/computing-support/desktop-mobile-and-printing/nyu-print-service.html)
   - Free printing at various locations on campus ($50 credit).
+- [Virtual Computer Lab](https://vcl.nyu.edu/)
+  - Provides access to various academic software via Amazon AppStream (remote desktop).
 - [Web Hosting](https://hosting.nyu.edu/)
   - Free simple web hosting managed by Reclaim Hosting and NYU Libraries.
   - You lose access once you graduate and will need to either buy a paid plan or transfer your date to another provider.
