@@ -1,5 +1,5 @@
 ---
-title: Profs
+title: Professors
 tags:
   - CAS
   - Tandon
@@ -7,400 +7,321 @@ tags:
 sidebar_position: 3
 ---
 
-# NYU Computer Science Profs
+# NYU Computer Science Professors
 
-This is a semi-complete list of faculty involved with Computer Science or Computer Science adjacent fields throughout NYU.
+This is a semi-complete list of faculty involved with Computer Science or Computer Science adjacent fields throughout NYU. Note that a professor may be in multiple departments. The research summaries were generated via ChatGPT.
+
 ## Stern
-- https://jwbaek.github.io/
-- https://elynncc.github.io/
-- https://pages.stern.nyu.edu/~xchen3/
-- https://www.stern.nyu.edu/faculty/bio/guthrie-collin
-- https://www.stern.nyu.edu/faculty/bio/rohit-deo
-- http://bravenewpodcast.com/
-- https://www.stern.nyu.edu/faculty/bio/halina-frydman
-- https://www.stern.nyu.edu/faculty/bio/avi-giloni
-- http://chatds.org/home-2
-- https://works.bepress.com/halaburda/
-- https://pages.stern.nyu.edu/~churvich/
-- https://srikanth-jagabathula.com/
-- https://sites.google.com/view/junpeikomiyama/home
-- https://pages.stern.nyu.edu/~plakner/
-- https://wp.nyu.edu/natalialevina/
-- https://www.stern.nyu.edu/faculty/bio/navin-manglani
-- http://www.raveeshmayya.com/
-- https://pages.stern.nyu.edu/~emelnick/
-- https://pages.stern.nyu.edu/~jowen/
-- https://wp.nyu.edu/michaelpinedo/
-- https://www.stern.nyu.edu/faculty/bio/gary-podorowsky
-- https://fosterprovost.com/
-- https://pages.stern.nyu.edu/~rradner/
-- https://pages.stern.nyu.edu/~jreed/
-- https://www.stern.nyu.edu/faculty/bio/joao-sedoc
-- https://www.stern.nyu.edu/faculty/bio/alex-siegman
-- https://pages.stern.nyu.edu/~jsimonof/
-- https://divyasinghvi.github.io/
-- https://kristensosulski.com/
-- https://www.stern.nyu.edu/faculty/bio/ning-su
-- https://oz.stern.nyu.edu/
-- https://pages.stern.nyu.edu/~atenenbe/
-- https://pages.stern.nyu.edu/~atuzhili/
-- https://www.chrisvolinsky.com/
-- https://www.stern.nyu.edu/faculty/bio/gustavo-vulcano
-- https://pages.stern.nyu.edu/~nwhite/
-- https://sites.google.com/nyu.edu/jiawei-zhang
-- https://pages.stern.nyu.edu/~zzhou/
+- [Elynn Chen](https://elynncc.github.io/)
+- [Guthrie Collin](https://www.stern.nyu.edu/faculty/bio/guthrie-collin)
+- [Rohit Deo](https://www.stern.nyu.edu/faculty/bio/rohit-deo)
+- [Halina Frydman](https://www.stern.nyu.edu/faculty/bio/halina-frydman)
+- [Avi Giloni](https://www.stern.nyu.edu/faculty/bio/avi-giloni)
+- [Hanna Halaburda](https://works.bepress.com/halaburda/)
+- [Srikanth Jagabathula](https://srikanth-jagabathula.com/)
+- [Junpei Komiyama](https://sites.google.com/view/junpeikomiyama/home)
+- [Peter Lakner](https://pages.stern.nyu.edu/~plakner/)
+- [Natalia Levina](https://wp.nyu.edu/natalialevina/)
+- [Navin Manglani](https://www.stern.nyu.edu/faculty/bio/navin-manglani)
+- [Raveesh Mayya](http://www.raveeshmayya.com/)
+- [Edward L. Melnick](https://pages.stern.nyu.edu/~emelnick/)
+- [Joel Owen](https://pages.stern.nyu.edu/~jowen/)
+- [Michael Pinedo](https://wp.nyu.edu/michaelpinedo/)
+- [Gary Podorowsky](https://www.stern.nyu.edu/faculty/bio/gary-podorowsky)
+- [Foster Provost](https://fosterprovost.com/)
+- [Roy Radner](https://pages.stern.nyu.edu/~rradner/)
+- [Josh Reed](https://pages.stern.nyu.edu/~jreed/)
+- [João Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
+- [Alex Siegman](https://www.stern.nyu.edu/faculty/bio/alex-siegman)
+- [Jeffrey S. Simonoff](https://pages.stern.nyu.edu/~jsimonof/)
+- [Divya Singhvi](https://divyasinghvi.github.io/)
+- [Kristen Sosulski](https://kristensosulski.com/)
+- [Ning Su](https://www.stern.nyu.edu/faculty/bio/ning-su)
+- [Arun Sundararajan](https://oz.stern.nyu.edu/)
+- [Aaron Tenenbein](https://pages.stern.nyu.edu/~atenenbe/)
+- [Alexander Tuzhilin](https://pages.stern.nyu.edu/~atuzhili/)
+- [Chris Volinsky](https://www.chrisvolinsky.com/)
+- [Gustavo J. Vulcano](https://www.stern.nyu.edu/faculty/bio/gustavo-vulcano)
+- [Norman H. White](https://pages.stern.nyu.edu/~nwhite/)
+- [Jiawei Zhang](https://sites.google.com/nyu.edu/jiawei-zhang)
+- [Zhengyuan Zhou](https://pages.stern.nyu.edu/~zzhou/)
+
 ## Courant
-- https://cims.nyu.edu/gcl/denis.html
-- https://daniel-zint.github.io/
-- https://www.mattzeidenberg.com/
-- https://saiqianzhang.com/
-- https://sites.google.com/nyu.edu/jiawei-zhang
-- https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people/zheng-zhang
-- https://emilydidthis.com/about/
-- http://www.mzahran.com/
-- https://cs.nyu.edu/~mz3331/
-- https://cs.nyu.edu/~mhw/
-- https://www.sainingxie.com/
-- https://cs.nyu.edu/cs/faculty/yap/
-- https://cs.nyu.edu/~widlund/
-- https://cs.nyu.edu/~wies/
-- https://cims.nyu.edu/~andrewgw/
-- https://sites.google.com/view/sanghyunwoo/
-- https://cs.nyu.edu/~mwalfish/
-- https://ai.meta.com/people/jason-weston/
-- https://cims.nyu.edu/~matus/
-- https://pages.stern.nyu.edu/~atuzhili/
-- https://cs.nyu.edu/%7Ejversoza/
-- https://lvelho.impa.br/
-- https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html
-- https://ytang.com/
-- https://cs.nyu.edu/~jt4767/
-- https://mtao.graphics/
-- https://cs.nyu.edu/~shasha/
-- https://cs.nyu.edu/~siegel/
-- https://anirudhsk.github.io/
-- https://engineering.nyu.edu/faculty/claudio-silva
-- https://cs.nyu.edu/~spencer/
-- https://math.nyu.edu/~stadler/
-- https://spooner.cc/
-- https://as.nyu.edu/faculty/tamar-schlick.html
-- https://cs.nyu.edu/~schonber/
-- https://wearecmyk.com/agent/adam-scher/
-- https://engineering.nyu.edu/faculty/keith-ross
-- https://cims.nyu.edu/~rajeshr/
-- https://cs.nyu.edu/~tr51/
-- https://engineering.nyu.edu/faculty/brandon-reagen
-- https://cims.nyu.edu/~regev/
-- https://mengyeren.com/
-- https://cs.nyu.edu/~rofrano/
-- https://www.stern.nyu.edu/faculty/bio/foster-provost
-- https://www.markhramos.net/about
-- https://gabrielpl.com/
-- https://www.di.ens.fr/~ponce/enindex.html
-- https://coryplock.yolasite.com/
-- https://cims.nyu.edu/~pehersto/
-- https://cs.nyu.edu/~perlin/
-- https://www.lerrelpinto.com/
-- https://sites.google.com/nyu.edu/picheny-nyu
-- https://cims.nyu.edu/gcl/daniele.html
-- https://sunoopark.com/
-- https://www.mihirpatil.com/
-- https://cs.nyu.edu/~apanda/
-- https://cs.nyu.edu/~neill/
-- https://cs.nyu.edu/~odeh/
-- https://cs.nyu.edu/~overton/
-- https://cs.nyu.edu/~olsen/
-- https://nlp.cs.nyu.edu/people/meyers.html
-- https://cs.nyu.edu/~mishra/
-- https://cs.nyu.edu/~mohri/
-- https://steinhardt.nyu.edu/people/panayotis-mavromatis
-- https://engineering.nyu.edu/faculty/nasir-memon
-- https://www.annmalavet.com/
-- https://github.com/khyeborg
-- https://www.julielizardo.com/
-- https://ipeirotis.org/
-- https://steinhardt.nyu.edu/people/natalie-jeremijenko
-- https://wp.nyu.edu/courantinstituteofmathematicalsciences-gizemk/
-- https://cims.nyu.edu/~kapp/
-- https://cs.nyu.edu/~kedem/
-- https://cims.nyu.edu/~kempe/
-- https://cs.nyu.edu/~joannakl/
-- https://cs.nyu.edu/~khot/
-- https://cs.nyu.edu/~korth/
-- https://cims.nyu.edu/~brenden/
-- https://cecilialeiqi.github.io/
-- http://yann.lecun.com/
-- https://www.news.cs.nyu.edu/~jinyang/
-- https://scholar.google.com/citations?user=QARFMPkAAAAJ
-- https://yanjunhan2021.github.io/index.html
-- https://hhexiy.github.io/
-- https://nyuad.nyu.edu/en/academics/divisions/science/faculty/nizar-habash.html
-- http://people.du.ac.in/~ngupta/
-- https://cs.nyu.edu/~anupamg/
-- https://engineering.nyu.edu/faculty/juliana-freire
-- https://cs.nyu.edu/~geiger/
-- https://engineering.nyu.edu/faculty/guido-gerig
-- https://cs.nyu.edu/~kgeras/
-- https://cs.nyu.edu/~goldberg/
-- https://cs.nyu.edu/~gottlieb/
-- https://cs.nyu.edu/~grishman/
-- https://math.nyu.edu/~greengar/index.html
-- https://www.guan.io/
-- https://cs.nyu.edu/~fouhey/
-- https://cs.nyu.edu/~jcf/JCF/
-- https://cims.nyu.edu/~frankeh/
-- https://cs.nyu.edu/~deena/
-- https://publichealth.nyu.edu/faculty/joshua-epstein
-- https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php
-- https://ai4ce.github.io/
-- https://cs.nyu.edu/~jclayton/
-- https://cs.nyu.edu/~cole/
-- https://cs.nyu.edu/~davise/
-- https://cs.nyu.edu/~pcousot/
-- https://cs.nyu.edu/~dodis/
-- https://scholar.google.com/citations?user=bOejjQUAAAAJ&hl=en
-- https://pages.stern.nyu.edu/~xchen3/
-- https://kyunghyuncho.me/
-- http://www.spchopra.org/
-- https://dblp.org/pid/74/1723.html
-- https://atcold.github.io/
-- https://sites.google.com/view/sungmin-cha/
-- https://cs.nyu.edu/~bb/
-- https://adrian-caciula.github.io/
-- https://cims.nyu.edu/~bruna/
-- https://scholar.google.com/citations?user=pvFqstUAAAAJ&hl=en
-- https://knowledge.kitchen/me/cv/
-- https://jbonneau.com/
-- https://cims.nyu.edu/~sbowman/
-- https://leon.bottou.org/
-- https://cs.nyu.edu/~berger/
-- https://sites.google.com/site/nirbitansky/
-- https://scholar.google.com/citations?user=laUsV00AAAAJ&hl=en
-- https://cs.nyu.edu/~mmb586/index.html
-- https://www.anassebari.com/
-- https://cs.nyu.edu/~pbethe/
-- https://www.duyguataman.com/
-- https://waqaraqeel.github.io/
-- https://cs.nyu.edu/~ha2285/
-- https://alannawzadamin.github.io/
+- [Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
+- [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)
+- [Matthew Zeidenberg](https://www.mattzeidenberg.com/)
+- [AI Zhang](https://saiqianzhang.com/)
+- [Jiawei Zhang](https://sites.google.com/nyu.edu/jiawei-zhang)
+- [Zheng Zhang](https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people/zheng-zhang)
+- [Emily Zhao](https://emilydidthis.com/about/)
+- [Mohamed M. Zahran](http://www.mzahran.com/)
+- [Mazdak Zamani](https://cs.nyu.edu/~mz3331/)
+- [Margaret H. Wright](https://cs.nyu.edu/~mhw/)
+- [Saining Xie](https://www.sainingxie.com/)
+- [Chee Yap](https://cs.nyu.edu/cs/faculty/yap/)
+- [Olof B. Widlund](https://cs.nyu.edu/~widlund/)
+- [Thomas Wies](https://cs.nyu.edu/~wies/)
+- [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/)
+- [Michael Walfish](https://cs.nyu.edu/~mwalfish/)
+- [Jason Weston](https://ai.meta.com/people/jason-weston/)
+- [Matus Telgarsky](https://cims.nyu.edu/~matus/)
+- [Alexander Tuzhilin](https://pages.stern.nyu.edu/~atuzhili/)
+- [Joe Versoza](https://cs.nyu.edu/%7Ejversoza/)
+- [Luiz Velho](https://lvelho.impa.br/)
+- [Lakshminarayanan Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html)
+- [Yang Tang](https://ytang.com/)
+- [Joseph Tassarotti](https://cs.nyu.edu/~jt4767/)
+- [Dennis Shasha](https://cs.nyu.edu/~shasha/)
+- [Alan Siegel](https://cs.nyu.edu/~siegel/)
+- [Anirudh Sivaraman](https://anirudhsk.github.io/)
+- [Claudio Silva](https://engineering.nyu.edu/faculty/claudio-silva)
+- [Joel Spencer](https://cs.nyu.edu/~spencer/)
+- [Georg Stadler](https://math.nyu.edu/~stadler/)
+- [Nicholas (Nick) Spooner](https://spooner.cc/)
+- [Tamar Schlick](https://as.nyu.edu/faculty/tamar-schlick.html)
+- [Edmond Schonberg](https://cs.nyu.edu/~schonber/)
+- [Adam Scher](https://wearecmyk.com/agent/adam-scher/)
+- [Keith Ross](https://engineering.nyu.edu/faculty/keith-ross)
+- [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/)
+- [Theodore S. Rappaport](https://engineering.nyu.edu/faculty/brandon-reagen)
+- [Brandon Reagen](https://engineering.nyu.edu/faculty/brandon-reagen)
+- [Oded Regev](https://cims.nyu.edu/~regev/)
+- [Mengye Ren](https://mengyeren.com/)
+- [John J. Rofrano](https://cs.nyu.edu/~rofrano/)
+- [Foster Provost](https://www.stern.nyu.edu/faculty/bio/foster-provost)
+- [Mark Ramos](https://www.markhramos.net/about)
+- [Georg Stadler](https://engineering.nyu.edu/faculty/guido-gerig)
+- [Jean Ponce](https://www.di.ens.fr/~ponce/enindex.html)
+- [Cory Plock](https://coryplock.yolasite.com/)
+- [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/)
+- [Ken Perlin](https://cs.nyu.edu/~perlin/)
+- [Lerrel Pinto](https://www.lerrelpinto.com/)
+- [Michael Picheny](https://sites.google.com/nyu.edu/picheny-nyu)
+- [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)
+- [Sunoo Park](https://sunoopark.com/)
+- [Mihir Patil](https://www.mihirpatil.com/)
+- [Aurojit Panda](https://cs.nyu.edu/~apanda/)
+- [Daniel B. Neill](https://cs.nyu.edu/~neill/)
+- [Sana Odeh](https://cs.nyu.edu/~odeh/)
+- [Michael L. Overton](https://cs.nyu.edu/~overton/)
+- [Al Olsen](https://cs.nyu.edu/~olsen/)
+- [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html)
+- [Bud Mishra](https://cs.nyu.edu/~mishra/)
+- [Mehryar Mohri](https://cs.nyu.edu/~mohri/)
+- [Panayotis Mavromatis](https://steinhardt.nyu.edu/people/panayotis-mavromatis)
+- [Nasir Memon](https://engineering.nyu.edu/faculty/nasir-memon)
+- [Ann Cammett](https://www.annmalavet.com/)
+- [Khye Borg Liew](https://github.com/khyeborg)
+- [Julie Lizardo](https://www.julielizardo.com/)
+- [Panos Ipeirotis](https://ipeirotis.org/)
+- [Natalie Jeremijenko](https://steinhardt.nyu.edu/people/natalie-jeremijenko)
+- [Prof. Gizem Kayar](https://wp.nyu.edu/courantinstituteofmathematicalsciences-gizemk/)
+- [Craig M. Kapp](https://cims.nyu.edu/~kapp/)
+- [Zvi M. Kedem](https://cs.nyu.edu/~kedem/)
+- [Julia Kempe](https://cims.nyu.edu/~kempe/)
+- [Joanna Klukowska](https://cs.nyu.edu/~joannakl/)
+- [Subhash Khot](https://cs.nyu.edu/~khot/)
+- [Evan Korth](https://cs.nyu.edu/~korth/)
+- [Brenden M. Lake](https://cims.nyu.edu/~brenden/)
+- [Qi Lei](https://cecilialeiqi.github.io/)
+- [Yann LeCun](http://yann.lecun.com/)
+- [Jinyang Li](https://www.news.cs.nyu.edu/~jinyang/)
+- [Susan E. Liao](https://scholar.google.com/citations?user=QARFMPkAAAAJ)
+- [Tsachy Weissman](https://yanjunhan2021.github.io/index.html)
+- [He He](https://hhexiy.github.io/)
+- [Nizar Habash](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/nizar-habash.html)
+- [Dr. Neelima Gupta](http://people.du.ac.in/~ngupta/)
+- [Anupam Gupta](https://cs.nyu.edu/~anupamg/)
+- [Juliana Freire](https://engineering.nyu.edu/faculty/juliana-freire)
+- [Davi Geiger](https://cs.nyu.edu/~geiger/)
+- [Guido Gerig](https://engineering.nyu.edu/faculty/guido-gerig)
+- [Krzysztof J. Geras](https://cs.nyu.edu/~kgeras/)
+- [Benjamin Goldberg](https://cs.nyu.edu/~goldberg/)
+- [Allan Gottlieb](https://cs.nyu.edu/~gottlieb/)
+- [Ralph Grishman](https://cs.nyu.edu/~grishman/)
+- [Leslie F. Greengard](https://math.nyu.edu/~greengar/index.html)
+- [Jiaxin Guan](https://www.guan.io/)
+- [David Fouhey](https://cs.nyu.edu/~fouhey/)
+- [Jean-Claude Franchitti](https://cs.nyu.edu/~jcf/JCF/)
+- [Hubertus Franke](https://cims.nyu.edu/~frankeh/)
+- [Deena Engel](https://cs.nyu.edu/~deena/)
+- [Joshua Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein)
+- [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php)
+- [Chen Feng](https://ai4ce.github.io/)
+- [Joshua Clayton](https://cs.nyu.edu/~jclayton/)
+- [Richard Cole](https://cs.nyu.edu/~cole/)
+- [Ernest Davis](https://cs.nyu.edu/~davise/)
+- [Patrick Cousot](https://cs.nyu.edu/~pcousot/)
+- [Yevgeniy Dodis](https://cs.nyu.edu/~dodis/)
+- [Parijat Dube](https://scholar.google.com/citations?user=bOejjQUAAAAJ&hl=en)
+- [Xi Chen](https://pages.stern.nyu.edu/~xchen3/)
+- [Kyunghyun Cho](https://kyunghyuncho.me/)
+- [Sumit Chopra](http://www.spchopra.org/)
+- [I-Hsin Chung](https://dblp.org/pid/74/1723.html)
+- [Alfredo Canziani](https://atcold.github.io/)
+- [Sungmin Cha](https://sites.google.com/view/sungmin-cha/)
+- [Benedikt Bünz](https://cs.nyu.edu/~bb/)
+- [Adrian Caciula](https://adrian-caciula.github.io/)
+- [Joan Bruna](https://cims.nyu.edu/~bruna/)
+- [Candido Cabo](https://scholar.google.com/citations?user=pvFqstUAAAAJ&hl=en)
+- [Amos Bloomberg](https://knowledge.kitchen/me/cv/)
+- [Joseph Bonneau](https://jbonneau.com/)
+- [Sam Bowman](https://cims.nyu.edu/~sbowman/)
+- [Léon Bottou](https://leon.bottou.org/)
+- [Marsha J. Berger](https://cs.nyu.edu/~berger/)
+- [Nir Bitansky](https://sites.google.com/site/nirbitansky/)
+- [Tobias Blickhan](https://scholar.google.com/citations?user=laUsV00AAAAJ&hl=en)
+- [Marshall Ball](https://cs.nyu.edu/~mmb586/index.html)
+- [Anasse Bari](https://www.anassebari.com/)
+- [Ernest Davis](https://cs.nyu.edu/~pbethe/)
+- [Duygu Ataman](https://www.duyguataman.com/)
+- [Bruce M. Maggs](https://waqaraqeel.github.io/)
+- [Hasan Aljabbouli](https://cs.nyu.edu/~ha2285/)
+- [Alan N. Amin](https://alannawzadamin.github.io/)
+
 ## Steinhardt
-- https://wp.nyu.edu/roginska/
-- https://wp.nyu.edu/robert_rowe/
-- https://musedlab.org/
-- https://steinhardt.nyu.edu/people/yoav-bergner
-- https://klintkanopka.com/
-- http://www.rshroff.com/
-- https://annewashington.com/
-- https://www.leilaadu.com/about/
-- https://steinhardt.nyu.edu/people/juan-pablo-bello
-- https://wp.nyu.edu/mfarbood/
-- https://magdalenafuentes.github.io/
-- https://steinhardt.nyu.edu/people/paul-geluso
-- https://brianmcfee.net/
+- [Agnieszka Roginska](https://wp.nyu.edu/roginska/)
+- [Gottfried Michael Koenig](https://wp.nyu.edu/robert_rowe/)
+- [Yoav Bergner](https://steinhardt.nyu.edu/people/yoav-bergner)
+- [Klint Kanopka](https://klintkanopka.com/)
+- [Ravi Shroff](http://www.rshroff.com/)
+- [Anne L. Washington](https://annewashington.com/)
+- [Leila Adu](https://www.leilaadu.com/about/)
+- [Juan Pablo Bello](https://steinhardt.nyu.edu/people/juan-pablo-bello)
+- [Morwaread M. Farbood](https://wp.nyu.edu/mfarbood/)
+- [Magdalena Fuentes](https://magdalenafuentes.github.io/)
+- [Paul Geluso](https://steinhardt.nyu.edu/people/paul-geluso)
+- [Brian McFee](https://brianmcfee.net/)
+
 ## Tisch
-- https://gamecenter.nyu.edu/faculty/naomi-clark/
-- https://gamecenter.nyu.edu/faculty/frank-lantz/
-- https://gamecenter.nyu.edu/faculty/eric-zimmerman/
-- https://gamecenter.nyu.edu/faculty/charles-pratt/
-- https://gamecenter.nyu.edu/faculty/matt-parker/
-- https://gamecenter.nyu.edu/faculty/matt-boch/
-- https://gamecenter.nyu.edu/faculty/clara-fernandez-vara/
-- https://gamecenter.nyu.edu/faculty/mitu-khandaker/
-- https://gamecenter.nyu.edu/faculty/ramiro-corbetta/
-- https://gamecenter.nyu.edu/faculty/shawn-pierre/
-- https://gamecenter.nyu.edu/faculty/winnie-song/
-- https://gamecenter.nyu.edu/faculty/karina-popp/
-- https://gamecenter.nyu.edu/faculty/lawra-suits-clark/
-- https://gamecenter.nyu.edu/faculty/luke-crane/
-- https://gamecenter.nyu.edu/faculty/josh-hirshfield/
-- https://gamecenter.nyu.edu/faculty/oliver-hong/
-- https://gamecenter.nyu.edu/faculty/emerson-matsuuchi/
-- https://gamecenter.nyu.edu/faculty/flan-falacci/
-- https://gamecenter.nyu.edu/faculty/moochi/
-- https://gamecenter.nyu.edu/faculty/nyusha-iampolski/
-- https://gamecenter.nyu.edu/faculty/beau-mcghee/
-- https://gamecenter.nyu.edu/faculty/21776-2/
-- https://gamecenter.nyu.edu/faculty/jess-haskins/
-- https://gamecenter.nyu.edu/faculty/chris-williams/
-- https://gamecenter.nyu.edu/faculty/kate-smith/
-- https://gamecenter.nyu.edu/faculty/jeff-petriello/
-- https://gamecenter.nyu.edu/faculty/greg-heffernan/
-- https://gamecenter.nyu.edu/faculty/joost-van-dreunen/
-- https://gamecenter.nyu.edu/faculty/natalie-asport/
-- https://gamecenter.nyu.edu/faculty/diego-garcia/
-- https://gamecenter.nyu.edu/faculty/burgess-voshell/
-- https://gamecenter.nyu.edu/faculty/chris-wallace/
-- https://gamecenter.nyu.edu/faculty/jesse-fuchs/
-- https://gamecenter.nyu.edu/faculty/geoff-engelstein/
-- https://gamecenter.nyu.edu/faculty/alexander-king/
+- [Naomi Clark](https://gamecenter.nyu.edu/faculty/naomi-clark/)
+- [Frank Lantz](https://gamecenter.nyu.edu/faculty/frank-lantz/)
+- [Eric Zimmerman](https://gamecenter.nyu.edu/faculty/eric-zimmerman/)
+- [Charles Pratt](https://gamecenter.nyu.edu/faculty/charles-pratt/)
+- [Matt Parker](https://gamecenter.nyu.edu/faculty/matt-parker/)
+- [Matt Boch](https://gamecenter.nyu.edu/faculty/matt-boch/)
+- [Clara Fernández-Vara](https://gamecenter.nyu.edu/faculty/clara-fernandez-vara/)
+- [Mitu Khandaker](https://gamecenter.nyu.edu/faculty/mitu-khandaker/)
+- [Ramiro Corbetta](https://gamecenter.nyu.edu/faculty/ramiro-corbetta/)
+- [Shawn Pierre](https://gamecenter.nyu.edu/faculty/shawn-pierre/)
+- [Winnie Song](https://gamecenter.nyu.edu/faculty/winnie-song/)
+- [Karina Popp](https://gamecenter.nyu.edu/faculty/karina-popp/)
+- [Lawra Suits-Clark](https://gamecenter.nyu.edu/faculty/lawra-suits-clark/)
+- [Luke Crane](https://gamecenter.nyu.edu/faculty/luke-crane/)
+- [Josh Hirshfield](https://gamecenter.nyu.edu/faculty/josh-hirshfield/)
+- [Oliver Hong](https://gamecenter.nyu.edu/faculty/oliver-hong/)
+- [Emerson Matsuuchi](https://gamecenter.nyu.edu/faculty/emerson-matsuuchi/)
+- [Flan Falacci](https://gamecenter.nyu.edu/faculty/flan-falacci/)
+- [Moochi](https://gamecenter.nyu.edu/faculty/moochi/)
+- [Nyusha Iampolski](https://gamecenter.nyu.edu/faculty/nyusha-iampolski/)
+- [Beau McGhee](https://gamecenter.nyu.edu/faculty/beau-mcghee/)
+- [Wengu Hu](https://gamecenter.nyu.edu/faculty/21776-2/)
+- [Jess Haskins](https://gamecenter.nyu.edu/faculty/jess-haskins/)
+- [Chris Williams](https://gamecenter.nyu.edu/faculty/chris-williams/)
+- [Kate Smith](https://gamecenter.nyu.edu/faculty/kate-smith/)
+- [Jeff Petriello](https://gamecenter.nyu.edu/faculty/jeff-petriello/)
+- [Greg Heffernan](https://gamecenter.nyu.edu/faculty/greg-heffernan/)
+- [Joost van Dreunen](https://gamecenter.nyu.edu/faculty/joost-van-dreunen/)
+- [Natalie Asport](https://gamecenter.nyu.edu/faculty/natalie-asport/)
+- [Diego Garcia](https://gamecenter.nyu.edu/faculty/diego-garcia/)
+- [Burgess Voshell](https://gamecenter.nyu.edu/faculty/burgess-voshell/)
+- [Chris Wallace](https://gamecenter.nyu.edu/faculty/chris-wallace/)
+- [Jesse Fuchs](https://gamecenter.nyu.edu/faculty/jesse-fuchs/)
+- [Geoff Engelstein](https://gamecenter.nyu.edu/faculty/geoff-engelstein/)
+- [Alexander King](https://gamecenter.nyu.edu/faculty/alexander-king/)
+
 ## Tandon
-- https://wp.nyu.edu/odednov/
-- https://engineering.nyu.edu/faculty/jabril-bensedrine
-- https://michaeldemic.com/
-- https://www.codesignwithdata.com/
-- https://engineering.nyu.edu/faculty/pavlos-mourdoukoutas
-- https://engineering.nyu.edu/faculty/tom-mazzone
-- https://engineering.nyu.edu/staff/bohdan-hoshovsky
-- https://engineering.nyu.edu/faculty/michael-driscoll
-- https://engineering.nyu.edu/faculty/christopher-policastro
-- https://engineering.nyu.edu/faculty/shrutivandana-sharma
-- https://www.takayabe.net/
-- https://engineering.nyu.edu/faculty/anne-laure-fayard
-- https://engineering.nyu.edu/harold-g-kaufman
-- https://www.lukedubois.com/
-- https://www.jeangallagher.net/
-- https://ahmedansari.com/
-- https://research.engineering.nyu.edu/~jbain/
-- https://engineering.nyu.edu/faculty/teresa-feroli
-- https://www.polishedsolid.com/
-- https://engineering.nyu.edu/faculty/kristen-day
-- https://tegabrain.com/
-- https://ennuigo.com/
-- https://carlagannis.com/
-- https://danyaglabau.com/about/
-- https://reginegilbert.com/
-- https://engineering.nyu.edu/faculty/james-lewis
-- https://amyhurst.com/
-- https://elizabeth-henaff.net/
-- https://findingfred.blogspot.com/
-- https://as.nyu.edu/faculty/sylvia-marks.html
-- https://kthartic.com/index.php/about/
-- https://engineering.nyu.edu/faculty/david-parisi
-- https://engineering.nyu.edu/faculty/donald-phillips
-- https://www.mukhtarayusuf.com/
-- https://engineering.nyu.edu/faculty/jonathan-soffer
-- https://engineering.nyu.edu/faculty/mark-skwarek
-- https://engineering.nyu.edu/faculty/benedetta-piantella
-- https://engineering.nyu.edu/faculty/mariela-alfonzo
-- http://www.cmap.polytechnique.fr/~touzi/
-- https://ama-website.github.io/
-- https://engineering.nyu.edu/faculty/barry-blecherman
-- https://engineering.nyu.edu/faculty/david-shimko
-- https://engineering.nyu.edu/faculty/agnes-tourin
-- https://github.com/firmai
-- https://eeweb.engineering.nyu.edu/iselesni/
-- https://wp.nyu.edu/meriit/
-- https://www.uelifesciences.com/
-- https://research.engineering.nyu.edu/highspeed/
-- https://wp.nyu.edu/elza_erkip/
-- https://research.engineering.nyu.edu/power/
-- https://wp.nyu.edu/nkdas/
-- https://engineering.nyu.edu/faculty/anna-choromanska
-- https://cs.nyu.edu/~fouhey/
-- https://wp.nyu.edu/ensure_group/
-- https://chinmayhegde.github.io/
-- https://mlab.engineering.nyu.edu/
-- https://engineering.nyu.edu/faculty/michael-knox
-- https://engineering.nyu.edu/faculty/farshad-khorrami
-- https://engineering.nyu.edu/faculty/ramesh-karri
-- https://eeweb.engineering.nyu.edu/~canlab/
-- https://engineering.nyu.edu/faculty/jelena-kovacevic
-- https://engineering.nyu.edu/faculty/yuzhang-lin
-- https://eeweb.engineering.nyu.edu/faculty/yongliu/
-- https://wp.nyu.edu/arpl/
-- https://wp.nyu.edu/rahmani/
-- https://engineering.nyu.edu/faculty/unnikrishna-pillai
-- https://engineering.nyu.edu/faculty/shivendra-panwar
-- https://wireless.engineering.nyu.edu/thomas-marzetta/
-- https://wireless.engineering.nyu.edu/sundeep-rangan/
-- https://wireless.engineering.nyu.edu/tedrappaport/
-- https://brandonreagen.com/
-- https://www.machinesinmotion.org/
-- https://wp.nyu.edu/videolab/
-- https://engineering.nyu.edu/faculty/peter-voltz
-- https://wp.nyu.edu/nanolab/
-- https://austinrovin.ski/
-- https://www.saiqianzhang.com/
-- https://wp.nyu.edu/quanyan/
-- https://marwachafii.github.io/#/en/home/
-- https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/mohamad-eid.html
-- https://engineering.nyu.edu/faculty/yi-fang
-- https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/andras-gyorgy.html
-- https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html
-- https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/mahmoud-rasras.html
-- https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html
-- https://wp.nyu.edu/sohmyung/
-- https://sites.nyuad.nyu.edu/dfx/
-- https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/anthony-tzes.html
-- https://sites.google.com/nyu.edu/zamlab?pli=1
-- https://engineering.nyu.edu/our-engineers/faculty/chudnovsky-brothers
-- https://witestlab.poly.edu/~ffund/
-- https://engineering.nyu.edu/faculty/thanasis-korakis
-- https://engineering.nyu.edu/faculty/pei-liu
-- https://engineering.nyu.edu/faculty/prashanth-krishnamurthy
-- http://www.mp3l.org/
-- https://wp.nyu.edu/jpbello/
-- https://engineering.nyu.edu/faculty/romain-corcolle
-- https://math.nyu.edu/~greengar/index.html
-- https://med.nyu.edu/faculty/daniel-k-sodickson
-- http://yann.lecun.com/
-- https://wireless.engineering.nyu.edu/riccardo-lattanzi/
-- https://engineering.nyu.edu/faculty/john-neil-carter
-- https://engineering.nyu.edu/faculty/xiao-kang-chen
-- https://engineering.nyu.edu/faculty/parijat-dube
-- https://engineering.nyu.edu/faculty/nina-krikorian-ezik
-- https://engineering.nyu.edu/faculty/jonathan-mamou
-- https://engineering.nyu.edu/faculty/omar-mansour
-- https://engineering.nyu.edu/faculty/zhengxue-zhao
-- https://engineering.nyu.edu/henry-l-bertoni
-- https://engineering.nyu.edu/joseph-bongiorno
-- https://engineering.nyu.edu/robert-r-boorstyn
-- https://engineering.nyu.edu/frank-cassara
-- https://engineering.nyu.edu/philip-sarachik
-- https://engineering.nyu.edu/faculty/spencer-kuo
-- https://research.engineering.nyu.edu/power/dariuszczarkowski.html
-- https://research.engineering.nyu.edu/power/zzabar.html
-- https://wireless.engineering.nyu.edu/i-tai-lu/
-- https://engineering.nyu.edu/michael-ettenberg
-- https://wireless.engineering.nyu.edu/david-goodman/
-- https://engineering.nyu.edu/faculty/martin-farach-colton
-- https://github.com/arfaouiGit
-- https://engineering.nyu.edu/faculty/boris-aronov
-- https://engineering.nyu.edu/faculty/peter-depasquale
-- https://rumichunara.github.io/
-- https://cse.engineering.nyu.edu/chiang/
-- https://ssl.engineering.nyu.edu/personalpages/jcappos/
-- https://engineering.nyu.edu/faculty/ratan-dey
-- https://moyix.net/
-- https://engineering.nyu.edu/faculty/jeffrey-epstein
-- https://engineering.nyu.edu/faculty/juliana-freire
-- https://cse.engineering.nyu.edu/~hstein/
-- https://engineering.nyu.edu/faculty/rachel-greenstadt
-- http://engineering.nyu.edu/~gerig/
-- https://engineering.nyu.edu/faculty/daniel-katz-braunschweig
-- https://damonmccoy.com/
-- https://engineering.nyu.edu/faculty/nasir-memon
-- https://gussand.github.io/
-- https://engineering.nyu.edu/faculty/darryl-reeves
-- https://engineering.nyu.edu/faculty/thomas-reddington
-- https://www.chrismusco.com/
-- https://engineering.nyu.edu/faculty/linda-sellie
-- https://ctsilva.github.io/
-- https://engineering.nyu.edu/faculty/fred-strauss
-- https://cse.engineering.nyu.edu/jsterling/
-- https://engineering.nyu.edu/faculty/itay-tal
-- https://www.immersivecomputinglab.org/
-- http://engineering.nyu.edu/~suel/
-- http://stoyanovich.org/
-- http://julian.togelius.com/
-- http://www.geosimulation.org/bio.html
-- https://www.neuroinformaticslab.com/#bio
-- https://engineering.nyu.edu/faculty/edward-wong
-- https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html
-- https://nyuad.nyu.edu/en/academics/divisions/science/faculty/riyadh-baghdadi.html
-- https://nyuad.nyu.edu/en/academics/divisions/science/faculty/nizar-habash.html
-- https://cyber.nyu.edu/profile/edward-amoroso/
-- https://cusp.nyu.edu/profiles/mark-cartwright/
-- https://chenjay.org/
-- https://john.iacono.web.ulb.be/
-- https://hvo.github.io/
-- http://cs.haifa.ac.il/LANDAU/landau.html
-- https://pkorus.pl/
-- http://enrico.bertini.io/
-- https://engineering.nyu.edu/faculty/semiha-ergan
-- https://engineering.nyu.edu/faculty/chen-feng
-- https://engineering.nyu.edu/phyllis-frankl
-- https://cse.engineering.nyu.edu/haldun/
-- https://cse.engineering.nyu.edu/~mleung/
-- https://engineering.nyu.edu/henry-ruston
-- https://engineering.nyu.edu/martin-shooman
+- [Oded Nov](https://wp.nyu.edu/odednov/)
+- [Jabril Bensedrine](https://engineering.nyu.edu/faculty/jabril-bensedrine)
+- [Michael D. D'Emic](https://michaeldemic.com/)
+- [Graham Dove](https://www.codesignwithdata.com/)
+- [Pavlos Mourdoukoutas](https://engineering.nyu.edu/faculty/pavlos-mourdoukoutas)
+- [Tom Mazzone](https://engineering.nyu.edu/faculty/tom-mazzone)
+- [Bohdan Hoshovsky](https://engineering.nyu.edu/staff/bohdan-hoshovsky)
+- [Michael Driscoll](https://engineering.nyu.edu/faculty/michael-driscoll)
+- [Christopher Policastro](https://engineering.nyu.edu/faculty/christopher-policastro)
+- [Shrutivandana Sharma](https://engineering.nyu.edu/faculty/shrutivandana-sharma)
+- [Takahiro Yabe](https://www.takayabe.net/)
+- [Anne-Laure Fayard](https://engineering.nyu.edu/faculty/anne-laure-fayard)
+- [Harold G. Kaufman](https://engineering.nyu.edu/harold-g-kaufman)
+- [R. Luke DuBois](https://www.lukedubois.com/)
+- [Jean Gallagher](https://www.jeangallagher.net/)
+- [Ahmed Ansari](https://ahmedansari.com/)
+- [Jonathan Bain](https://research.engineering.nyu.edu/~jbain/)
+- [Teresa Feroli](https://engineering.nyu.edu/faculty/teresa-feroli)
+- [De Angela L. Duff](https://www.polishedsolid.com/)
+- [Kristen Day](https://engineering.nyu.edu/faculty/kristen-day)
+- [Tega Brain](https://tegabrain.com/)
+- [Scott Fitzgerald](https://ennuigo.com/)
+- [Danya Glabau](https://danyaglabau.com/about/)
+- [Reginé Gilbert](https://reginegilbert.com/)
+- [James Lewis](https://engineering.nyu.edu/faculty/james-lewis)
+- [Amy Hurst](https://amyhurst.com/)
+- [Elizabeth Hénaff](https://elizabeth-henaff.net/)
+- [Allan B. Goldstein](https://findingfred.blogspot.com/)
+- [Sylvia Kasey Marks](https://as.nyu.edu/faculty/sylvia-marks.html)
+- [David Parisi](https://engineering.nyu.edu/faculty/david-parisi)
+- [Donald Phillips](https://engineering.nyu.edu/faculty/donald-phillips)
+- [Mukhtar Ayusuf](https://www.mukhtarayusuf.com/)
+- [Jonathan Soffer](https://engineering.nyu.edu/faculty/jonathan-soffer)
+- [Mark Skwarek](https://engineering.nyu.edu/faculty/mark-skwarek)
+- [Benedetta Piantella](https://engineering.nyu.edu/faculty/benedetta-piantella)
+- [Mariela Alfonzo](https://engineering.nyu.edu/faculty/mariela-alfonzo)
+- [Nizar Touzi](http://www.cmap.polytechnique.fr/~touzi/)
+- [Amine Mohamed Aboussalah](https://ama-website.github.io/)
+- [Barry Blecherman](https://engineering.nyu.edu/faculty/barry-blecherman)
+- [David Shimko](https://engineering.nyu.edu/faculty/david-shimko)
+- [Agnes Tourin](https://engineering.nyu.edu/faculty/agnes-tourin)
+- [Derek Snow](https://github.com/firmai)
+- [Ivan Selesnick](https://eeweb.engineering.nyu.edu/iselesni/)
+- [Professor S. Farokh Atashzar](https://wp.nyu.edu/meriit/)
+- [Dr. Arnold Baskies](https://www.uelifesciences.com/)
+- [Elza Erkip](https://wp.nyu.edu/elza_erkip/)
+- [Yury Dvorkin](https://research.engineering.nyu.edu/power/)
+- [Nirod K. Das](https://wp.nyu.edu/nkdas/)
+- [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska)
+- [David Fouhey](https://cs.nyu.edu/~fouhey/)
+- [Siddharth Garg](https://wp.nyu.edu/ensure_group/)
+- [Chinmay Hegde](https://chinmayhegde.github.io/)
+- [Danny Yuxing Huang](https://mlab.engineering.nyu.edu/)
+- [Michael Knox](https://engineering.nyu.edu/faculty/michael-knox)
+- [Farshad Khorrami](https://engineering.nyu.edu/faculty/farshad-khorrami)
+- [Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri)
+- [Zhong-Ping Jiang](https://eeweb.engineering.nyu.edu/~canlab/)
+- [Jelena Kovačević](https://engineering.nyu.edu/faculty/jelena-kovacevic)
+- [Yuzhang Lin](https://engineering.nyu.edu/faculty/yuzhang-lin)
+- [Yong Liu](https://eeweb.engineering.nyu.edu/faculty/yongliu/)
+- [Giuseppe Loianno](https://wp.nyu.edu/arpl/)
+- [Hamed Rahmani](https://wp.nyu.edu/rahmani/)
+- [Unnikrishna Pillai](https://engineering.nyu.edu/faculty/unnikrishna-pillai)
+- [Shivendra Panwar](https://engineering.nyu.edu/faculty/shivendra-panwar)
+- [Thomas Marzetta](https://wireless.engineering.nyu.edu/thomas-marzetta/)
+- [Sundeep Rangan](https://wireless.engineering.nyu.edu/sundeep-rangan/)
+- [Theodore Rappaport](https://wireless.engineering.nyu.edu/tedrappaport/)
+- [Brandon Reagen](https://brandonreagen.com/)
+- [Ludovic Righetti](https://www.machinesinmotion.org/)
+- [Yong Liu](https://wp.nyu.edu/videolab/)
+- [Peter Voltz](https://engineering.nyu.edu/faculty/peter-voltz)
+- [Davood Shahrjerdi](https://wp.nyu.edu/nanolab/)
+- [Austin Rovinski](https://austinrovin.ski/)
+- [AI Zhang](https://www.saiqianzhang.com/)
+- [Quanyan Zhu](https://wp.nyu.edu/quanyan/)
+- [Marwa Chafii](https://marwachafii.github.io/#/en/home/)
+- [Mohamad Eid](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/mohamad-eid.html)
+- [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang)
+- [Andras Gyorgy](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/andras-gyorgy.html)
+- [Muhammad Shafique](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html)
+- [Mahmoud Rasras](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/mahmoud-rasras.html)
+- [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html)
+- [Sohmyung Ha](https://wp.nyu.edu/sohmyung/)
+- [Ozgur Sinanoglu](https://sites.nyuad.nyu.edu/dfx/)
+- [Anthony Tzes](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/anthony-tzes.html)
+- [Ivan Selesnick](https://engineering.nyu.edu/our-engineers/faculty/chudnovsky-brothers)
+- [Shivendra Panwar](https://witestlab.poly.edu/~ffund/)
+- [Thanasis Korakis](https://engineering.nyu.edu/faculty/thanasis-korakis)
+- [Pei Liu](https://engineering.nyu.edu/faculty/pei-liu)
+- [Phyllis Frankl](https://engineering.nyu.edu/phyllis-frankl)
+- [Haldun Hadimioglu](https://cse.engineering.nyu.edu/haldun/)
+- [K. Ming Leung](https://cse.engineering.nyu.edu/~mleung/)
+- [Henry Ruston](https://engineering.nyu.edu/henry-ruston)
+- [Martin Shooman](https://engineering.nyu.edu/martin-shooman)
