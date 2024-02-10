@@ -9,9 +9,11 @@ sidebar_position: 3
 
 # NYU Computer Science Professors
 
-This is a semi-complete list of faculty involved with Computer Science or Computer Science adjacent fields throughout NYU. Note that a professor may be in multiple departments. The research summaries were generated via ChatGPT.
+This is a semi-complete list of faculty involved with Computer Science or Computer Science adjacent fields throughout NYU along with their research interests. Note that a professor may be in multiple departments. The research summaries were generated via ChatGPT.
 
 ## Stern
+- [Jackie Baek](https://jwbaek.github.io/)
+- [Christian Grewell](https://chatds.org/home-2)
 - [Elynn Chen](https://elynncc.github.io/)
 - [Guthrie Collin](https://www.stern.nyu.edu/faculty/bio/guthrie-collin)
 - [Rohit Deo](https://www.stern.nyu.edu/faculty/bio/rohit-deo)
