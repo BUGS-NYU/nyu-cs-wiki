@@ -37,5 +37,4 @@ flowchart TD
     click labs href "/docs/Opportunities/Internal/labs"
     click research href "/docs/Opportunities/Internal/research"
     click cp href "/docs/Opportunities/Internships/competitive_programming"
-
 ```
