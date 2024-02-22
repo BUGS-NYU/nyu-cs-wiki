@@ -27,4 +27,14 @@ flowchart TD
     r --> labs[Labs]
     r --> research[Research]
     r --> gpa[Academic Transcript]
+
+    click internships href "/docs/Opportunities/Internships"
+    click fellowships href "/docs/Opportunities/Fellowships"
+    click p href "/docs/Opportunities/projects"
+    click hackathons href "/docs/Opportunities/Hackathons"
+    click vip href "/docs/Opportunities/VIP"
+    click clubs href "/docs/Opportunities/Internal/clubs"
+    click labs href "/docs/Opportunities/Internal/labs"
+    click research href "/docs/Opportunities/Internal/research"
+    click cp href "/docs/Opportunities/Internships/competitive_programming"
 ```
