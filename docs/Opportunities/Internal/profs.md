@@ -52,6 +52,7 @@ This is a semi-complete list of faculty involved with Computer Science or Comput
 - [Zhengyuan Zhou](https://pages.stern.nyu.edu/~zzhou/)
 
 ## Courant
+- [Daniel Zint](https://daniel-zint.github.io/)
 - [Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
 - [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)
 - [Matthew Zeidenberg](https://www.mattzeidenberg.com/)
@@ -187,6 +188,7 @@ This is a semi-complete list of faculty involved with Computer Science or Comput
 - [Alan N. Amin](https://alannawzadamin.github.io/)
 
 ## Steinhardt
+- [Alex Ruthmann](https://steinhardt.nyu.edu/people/s-alex-ruthmann)
 - [Agnieszka Roginska](https://wp.nyu.edu/roginska/)
 - [Gottfried Michael Koenig](https://wp.nyu.edu/robert_rowe/)
 - [Yoav Bergner](https://steinhardt.nyu.edu/people/yoav-bergner)
@@ -238,6 +240,11 @@ This is a semi-complete list of faculty involved with Computer Science or Comput
 - [Alexander King](https://gamecenter.nyu.edu/faculty/alexander-king/)
 
 ## Tandon
+- [Ted Rappaport](https://cs.nyu.edu/~tr51/)
+- [Yang Xu](https://engineering.nyu.edu/faculty/yang-xu)
+- [Azhar Zam](https://sites.google.com/nyu.edu/zamlab/azharzam?authuser=0)
+- [Qi Sun](https://sites.google.com/nyu.edu/zamlab/azharzam?authuser=0)
+- [Paul Torrens](https://engineering.nyu.edu/faculty/paul-torrens)
 - [Oded Nov](https://wp.nyu.edu/odednov/)
 - [Jabril Bensedrine](https://engineering.nyu.edu/faculty/jabril-bensedrine)
 - [Michael D. D'Emic](https://michaeldemic.com/)
