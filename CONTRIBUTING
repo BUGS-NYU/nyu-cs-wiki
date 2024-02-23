@@ -1,0 +1,28 @@
+# Contributing
+
+Hey, thanks for your interest in contributing to the NYU CS Wiki! Please review this document **before making a pull request**.
+
+## Guidelines and Style
+
+- Follow a second ('you can...') or third ('it is..') person point of view when writing articles
+- Make sure to cite your sources; this can be done [via markdown](https://www.markdownguide.org/extended-syntax/#footnotes). For an example, look at the ``Holodeck: High Speed Research Network`` article citations.
+- Keep it (mostly) professional
+
+## 👷 Development 
+
+You will need node/npm installed and then need to run ``npm install`` in the project directory (this will grab all the dependencies). From here, you can create your own articles/modifications to the source in either the /docs or /src directories, respectively. After, to run the project: 
+
+- 🚧 Development (does not include search index):
+  ```sh
+  npm start
+  ```
+- 🏭 Production (includes search index):
+  ```sh
+  npm run build
+  npm run serve
+  ```
+
+## Licensing
+
+As of February 2024, if you contribute to the documentation (/docs folder), you agree that your docs will be licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en). The code will be licensed under [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
