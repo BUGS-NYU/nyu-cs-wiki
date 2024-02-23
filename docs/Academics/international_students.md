@@ -8,7 +8,7 @@ tags:
 
 # International Students
 
-International students are an indispensable part of the student community. Here is some important information you may want to know. You may also check out the website of [OGS](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html) or [The International Student Hub](https://www.nyu.edu/students/communities-and-groups/international-students/international-student-hub.html) for resources.
+International students are an indispensable part of the student community. Here is some important information you may want to know. You may also check out [OGS](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html) or [The International Student Hub](https://www.nyu.edu/students/communities-and-groups/international-students/international-student-hub.html) for resources.
 
 ## Visa Eligibility
 
