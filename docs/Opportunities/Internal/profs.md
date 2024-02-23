@@ -243,8 +243,6 @@ This is a semi-complete list of faculty involved with Computer Science or Comput
 - [Ted Rappaport](https://cs.nyu.edu/~tr51/)
 - [Yang Xu](https://engineering.nyu.edu/faculty/yang-xu)
 - [Azhar Zam](https://sites.google.com/nyu.edu/zamlab/azharzam?authuser=0)
-- [Qi Sun](https://sites.google.com/nyu.edu/zamlab/azharzam?authuser=0)
-- [Paul Torrens](https://engineering.nyu.edu/faculty/paul-torrens)
 - [Oded Nov](https://wp.nyu.edu/odednov/)
 - [Jabril Bensedrine](https://engineering.nyu.edu/faculty/jabril-bensedrine)
 - [Michael D. D'Emic](https://michaeldemic.com/)
