@@ -10,7 +10,7 @@ Hey, thanks for your interest in contributing to the NYU CS Wiki! Please review 
 
 ## 👷 Development 
 
-You will need node/npm installed and then need to run ``npm install`` in the project directory (this will grab all the dependencies). From here, you can create your own articles/modifications to the source in either the /docs or /src directories, respectively. After, to run the project: 
+You will need node/npm installed and then need to run ``npm install`` in the project directory (this will grab all the dependencies). From here, you can create your own articles/modifications to the source in either the /docs or /src directories, respectively. ```npm start``` supports hot reloading of the project, meaning that your changes will be reflected automatically on the development build. Unless you need the search, it is recommended to use the former option.
 
 - 🚧 Development (does not include search index):
   ```sh
@@ -25,4 +25,3 @@ You will need node/npm installed and then need to run ``npm install`` in the pro
 ## Licensing
 
 As of February 2024, if you contribute to the documentation (/docs folder), you agree that your docs will be licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en). The code will be licensed under [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
