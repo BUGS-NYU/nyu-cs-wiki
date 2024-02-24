@@ -24,4 +24,4 @@ You will need node/npm installed and then need to run ``npm install`` in the pro
 
 ## Licensing
 
-As of February 2024, if you contribute to the documentation (/docs folder), you agree that your docs will be licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en). The code will be licensed under [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+As of February 2024, if you contribute to the documentation (/docs folder), you agree that your docs will be licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en). If the file is static (/static folder), the files will be provided under the terms of their original licenses. All other files will be licensed under [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
