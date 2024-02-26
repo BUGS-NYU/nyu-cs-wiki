@@ -5,14 +5,14 @@ Hey, thanks for your interest in contributing to the NYU CS Wiki! Please review 
 ## Guidelines 
 
 - All articles are written in a format known as [Markdown](https://commonmark.org/help/). Don't be worried! It's very simple to write in once you get the hang of it; for reference, you can look at any of the pages in the /docs folder. 
-- Looking in /docs, there are 3 main categories: Academics/Opportunities/Recreation. Let's take a look at /docs/Academics for reference. You can see an ``academics.md`` file which serves as an overview (visible when clicking on a category). From here, there is ``classes.md``, ``schedule.md``, etc which talk about their respective subjects. However, if there's a topic that requires multiple articles, you can create a folder (ex. /Academics/Tandon) and create an overview file and more pages from here. 
-- Let's take a look at one file: ``clubs.md``. At the top of the page are the title, tags, and sidebar position; you can add tags that you feel are relevant to the article (in this case, CAS, Tandon, and Clubs) - you can go to /docs/tags to view all current tags or you can create your own. The sidebar position isn't usually relevant but it can change the position of the article on the sidebar independent of alphabetical sorting.
+- Looking in /docs, there are 3 main categories: Academics, Opportunities, and Recreation. Let's take a look at /docs/Academics for reference. You can see an [``academics.md``](/docs/Academics/academics.md) file which serves as an overview (visible when clicking on a category). From here, there is [``classes.md``](/docs/Academics/classes.md), [``schedule.md``](/docs/Academics/schedule.md), etc which talk about their respective subjects. However, if there's a topic that requires multiple articles, you can create a folder (ex. /Academics/Tandon) and create an overview file and more pages from here. 
+- Let's take a look at one file: [``clubs.md``](/docs/Opportunities/Internal/clubs.md). At the top of the page are the title, tags, and sidebar position; you can add tags that you feel are relevant to the article (in this case, CAS, Tandon, and Clubs) - you can go to /docs/tags to view all current tags or you can create your own. The sidebar position isn't usually relevant but it can change the position of the article on the sidebar independent of alphabetical sorting.
 - After, there is a title tag, a brief description of the article's contents, and then the content itself. The formatting for the content will vary depending on the type of content so it's best to look around the pages on the site to get a feel for the type of formatting that best works for you.
 
 ## Style
 
 - Follow a second ('you can...') or third ('it is..') person point of view when writing articles.
-- Make sure to cite your sources; this can be done [via markdown](https://www.markdownguide.org/extended-syntax/#footnotes). For an example, look at the ``Holodeck: High Speed Research Network`` article citations.
+- Make sure to cite your sources; this can be done [via markdown](https://www.markdownguide.org/extended-syntax/#footnotes). For an example, look at the [``Holodeck: High Speed Research Network``](/docs/Opportunities/VIP/hsrn.md) article citations.
 - Keep only one level of nesting for articles (ex. Opportunities/Internal).
 - Keep it (mostly) professional.
 
