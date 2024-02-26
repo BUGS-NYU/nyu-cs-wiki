@@ -26,7 +26,7 @@ BUGS@NYU believes these resources should be available to the CS community at NYU
 
 ## 👨‍💻👩‍💻 Contributing
 
-To contribute, make sure you have node/npm installed on your computer and then run npm install in the root directory of the project. Then fork this repository and navigate to the docs folder. From here, you can create new markdown files based on the information you would like to add.
+See [Contributing.md](/CONTRIBUTING)
 
 ## Credits
 
