@@ -26,7 +26,7 @@ BUGS@NYU believes these resources should be available to the CS community at NYU
 
 ## 👨‍💻👩‍💻 Contributing
 
-See [Contributing.md](/CONTRIBUTING)
+See [Contributing.md](/CONTRIBUTING.md)
 
 ## Credits
 
