@@ -17,8 +17,8 @@ A list of discounts that NYU students can take advantage of.
 - [Samsung Education Discount](https://www.samsung.com/us/shop/discount-program/education/)
     - Up to 30% off for students.
 ### Shopping
-- [Amazon Prime Student](https://www.amazon.com/gp/help/customer/display.html?nodeId=GAHEWLGGJTWD9NK5)
-    - 3 months free, then $8.99/year.
+- [Amazon Prime Student](https://www.amazon.com/gp/help/customer/display.html?nodeId=GWMNXPTL3482JPHC)
+    - 6 months free, then $7.49/month.
 ### Music & Media
 Ad free music, offline listening, and more.
 - [Spotify Premium](https://www.spotify.com/us/student/)
