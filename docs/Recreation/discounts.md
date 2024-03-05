@@ -23,8 +23,8 @@ A list of discounts that NYU students can take advantage of.
 Ad free music, offline listening, and more.
 - [Spotify Premium](https://www.spotify.com/us/student/)
     - Free for 1 month, then $5.99/month
-- [Apple Music](https://www.apple.com/us-hed/shop/back-to-school)
-    - Free for 3 months, then $4.99/month
+- [Apple Music](https://www.apple.com/apple-music/#plans)
+    - Free for 1 month, then $5.99/month
 - [Hulu](https://www.hulu.com/student)
     - $1.99/month for ad-supported plan.
 - [Peacock](https://www.peacocktv.com/student)
