@@ -18,7 +18,7 @@ A list of discounts that NYU students can take advantage of.
     - Up to 30% off for students.
 ### Shopping
 - [Amazon Prime Student](https://www.amazon.com/gp/help/customer/display.html?nodeId=GWMNXPTL3482JPHC)
-    - 6 months free, then $7.49/month.
+    - Free or discounted trial, then $7.49/month.
 ### Music & Media
 Ad free music, offline listening, and more.
 - [Spotify Premium](https://www.spotify.com/us/student/)
