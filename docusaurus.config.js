@@ -182,7 +182,7 @@ const config = {
             ]
           }
         ],
-        copyright: 'Written by BUGS@NYU - Unaffiliated with New York University'
+        copyright: '<a href="https://bugsnyu.com/" style="color: white">Written by BUGS@NYU - Unaffiliated with New York University</a>'
       },
       prism: {
         theme: lightCodeTheme,
