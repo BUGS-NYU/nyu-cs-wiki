@@ -11,7 +11,7 @@ sidebar_position: 5
 
 Working as a Teaching Assistant (TA) or tutor presents a valuable and rewarding opportunity to engage with teaching on campus. By choosing an area that captivates you, you can support professors or aid fellow students in acquiring new knowledge, all the while reinforcing your own understanding of the material and receiving compensation. Additionally, these roles offer a chance to enhance your soft skills, including communication and presentation abilities. Explore the extensive opportunities available at CAS/Tandon and learn how to initiate your application process below.
 
-Grading and tutoring roles are generally more readily available for undergraduate students, whereas TA positions are mostly open to graduate students. You may expect a weekly workload of 5 to 20 hours, varying by course. International students should be mindful of their allowable working hour limits.
+Grading and tutoring roles are generally more readily available for undergraduate students at CAS, whereas TA positions are mostly open to graduate students. TA positions at Tandon are more flexible and open to both undergraduate and graduate students, depending on courses. In general, You may expect a weekly workload of 5 to 20 hours, varying by course. International students should be mindful of their allowable working hour limits.
 
 ## [University Learning Center (ULC)](https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center/tutoring-and-learning.html)
 
