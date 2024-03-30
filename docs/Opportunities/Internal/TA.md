@@ -15,7 +15,7 @@ Grading and tutoring roles are generally more readily available for undergraduat
 
 ## [University Learning Center (ULC)](https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center/tutoring-and-learning.html)
 
-ULC is the goto of tutoring and learning on campus, staffed exclusively by undergraduates. It offers a number of positions open for application, not restricted to the field of computer science. For the role of Learning Assistant (LA) in specific, you may anticipate leading learning groups or offering daily walk-in tutoring services. Find comprehensive details and application guidelines [here](https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center/tutoring-and-learning/work-for-the-ulc.html#LA).
+ULC is the go-to for tutoring and learning on campus, staffed exclusively by undergraduates. It offers a number of positions open for application, not restricted to the field of computer science. For the role of Learning Assistant (LA) in specific, you may anticipate leading learning groups or offering daily walk-in tutoring services. Find comprehensive details and application guidelines [here](https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center/tutoring-and-learning/work-for-the-ulc.html#LA).
 
 ## [Polytechnic Tutoring Center (PTC)](https://engineering.nyu.edu/academics/undergraduate/tutoring-center) @Tandon
 
@@ -24,7 +24,7 @@ Located in Brooklyn, PTC offers employment opportunities as tutors. The roles en
 ## Other Resources
 
 - Department of Computer Science [OPPORTUNITIES MAILING LIST](https://cs.nyu.edu/home/undergrad/opportunities.html)
-  
+
   The department mailing list is a great source for job, research, and on-campus working opportunities. At the start and end of every semester, you may expect many TA/Tutor opportunities posted with corresponding requirements and application instructions. Subscribe [here](https://cs.nyu.edu/mailman/listinfo/opportunities) for timely updates.
 
 - Direct Communication with Professors
