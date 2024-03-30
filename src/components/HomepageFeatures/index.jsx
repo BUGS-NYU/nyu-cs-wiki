@@ -7,44 +7,30 @@ const FeatureList = [
   {
     title: 'Academics',
     url: './docs/Academics',
-    svg: 'img/light/academics.svg',
-    svgDark: 'img/dark/academics.svg',
-    description: <>How to navigate NYU academics.</>
+    image: 'img/feature_academics.png',
+    description: <>How to navigate NYU academics</>
   },
   {
     title: 'Opportunities',
     url: './docs/Opportunities',
-    svg: 'img/light/opportunities.svg',
-    svgDark: 'img/dark/opportunities.svg',
-    description: (
-      <>
-        Which opportunities to pursue (and how to get them) inside and outside
-        of NYU.
-      </>
-    )
+    image: 'img/feature_opportunities.png',
+    description: <>Opportunities to pursue inside and outside of NYU</>
+    
   },
   {
     title: 'Recreation',
     url: './docs/Recreation',
-    svg: 'img/light/recreation.svg',
-    svgDark: 'img/dark/recreation.svg',
-    description: <>Other fun stuff about NYU CS.</>
+    image: 'img/feature_recreation.png',
+    description: <>Other fun stuff about NYU</>
   }
 ]
 
-function Feature({ svg, svgDark, title, url, description }) {
+function Feature({ image, title, url, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <a href={url}>
-          <ThemedImage
-            alt={title}
-            className={styles.featureSvg}
-            sources={{
-              light: require(`@site/static/${svg}`).default,
-              dark: require(`@site/static/${svgDark}`).default
-            }}
-          />
+          <img src={image} alt={title} />
         </a>
       </div>
       <div className="text--center padding-horiz--md">
