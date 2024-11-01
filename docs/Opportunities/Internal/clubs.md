@@ -19,7 +19,7 @@ In general, there isn't a "best" way of finding clubs but there are a few resour
 
   You're on a BUGS project right now ;) BUGS is NYU’s premier open source club connecting students to create an inclusive environment to work on projects together. The club aims to bring students together to create impactful projects and develop skills that matter. Learn from guest speakers, interactive workshops, and more. BUGS hosts events bi-weekly covering different skills and topics that are cool and useful in the realm of open source development.
 
-- Poly Programming Team (Tandon) - [Discord](https://discord.gg/mDd3TTmzAT)
+- Poly Programming Club (Tandon) - [Engage](https://engage.nyu.edu/organization/polyprogrammingclub), [Discord](https://discord.gg/mDd3TTmzAT), [Instaqram](https://www.instagram.com/polyprogramming)
 
   A casual but more social competitive programming experience, come here if you need to brush up your leetcode skills while also getting to hangout with Tandon CS students.
 
