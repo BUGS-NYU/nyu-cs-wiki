@@ -28,4 +28,6 @@ A list of recommended classes by former students. If you would like to add/updat
 
   Comment: This class is a great introductory to Offensive Security Tools and methods in use by [penetration testers](https://www.synopsys.com/glossary/what-is-penetration-testing.html) and [hackers](https://cyberonline.sdsu.edu/blog/penetration-testing-vs-ethical-hacking/) in today's world. This is done through the use of Jeopardy Style [Capture-The-Flag competition](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) where 100% of the grade is evaluated on the effectiveness of student's system breaches.
 
-  Prerequisites: None (Though some experience in python scripting is expected)
+  Prerequisites: None*
+
+  * Some experience in python scripting is expected. Please DO NOT take this class unless you have taken/are familiar with the concepts taught in Computer Architecture/Computer Systems Organization and Operating Systems.
