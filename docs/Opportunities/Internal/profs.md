@@ -91,7 +91,7 @@ This is a semi-complete list of faculty involved with Computer Science or Comput
 - [Adam Scher](https://wearecmyk.com/agent/adam-scher/)
 - [Keith Ross](https://engineering.nyu.edu/faculty/keith-ross)
 - [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/)
-- [Theodore S. Rappaport](https://engineering.nyu.edu/faculty/brandon-reagen)
+- [Theodore S. Rappaport](https://wireless.engineering.nyu.edu/tedrappaport/)
 - [Brandon Reagen](https://engineering.nyu.edu/faculty/brandon-reagen)
 - [Oded Regev](https://cims.nyu.edu/~regev/)
 - [Mengye Ren](https://mengyeren.com/)
