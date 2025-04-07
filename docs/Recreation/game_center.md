@@ -1,16 +1,32 @@
 ---
-title: Game Center
-tags:
-  - Student
-  - Tisch
+title: Game Center  
+tags:  
+  - Student  
+  - Tisch  
 ---
 
 # NYU Game Center
 
-Located on the 6th floor of 370 Jay Street in Brooklyn, the NYU Game Center hosts a library of video games spanning console generations starting from the 1970s to the present, board games, and gaming computers. While primarily for the Bachelors/Masters of Fine Arts program students in Game Design at the Tisch School of Arts, the library is open to all NYU students. An inventory of video games available can be found [here](https://docs.google.com/spreadsheets/d/1R11_VvmYepsvQUcpjs4ZuMsYWdMNwegc1Gg1BebtU4Y/edit#gid=571633664).
+The [**NYU Game Center**](https://gamecenter.nyu.edu/) is located on the **6th floor of 370 Jay Street, Brooklyn**. It serves as a hub for game design students and enthusiasts across NYU. While it's part of the **BFA/MFA in Game Design** under the Tisch School of the Arts, many of its resources are open to all NYU students.
 
-There are also "Playtest Thursdays" hosted at 5:00 PM on the 2nd floor of 370 Jay Street where students can bring in a game they have been working on and receive feedback from students. More info can be found [here](https://gamecenter.nyu.edu/event/playtest-thursday-199/).
+## 🎮 Game Library
 
-Further Resources:
+The Game Center Library includes:
 
-- [Game Center Website](https://tisch.nyu.edu/game-center)
+- **Video games** spanning from the 1970s to the present across multiple console generations  
+- A variety of **board games**
+- **High-performance gaming computers**
+
+📍 **Location:** 6th Floor, 370 Jay Street  
+🕒 **Hours:** Monday–Friday, 10 AM – 6 PM *(subject to semester schedule)*  
+📚 **Game Inventory:** [Browse available games](https://docs.google.com/spreadsheets/d/1R11_VvmYepsvQUcpjs4ZuMsYWdMNwegc1Gg1BebtU4Y/edit#gid=571633664)
+
+## 🧪 Playtest Thursdays
+
+Every **Thursday at 5:00 PM** on the **2nd floor of 370 Jay Street**, students can bring their games—digital or physical—for playtesting and feedback. All disciplines and levels of progress are welcome!
+
+🔗 [More info on Playtest Thursday](https://gamecenter.nyu.edu/events/playtest-thursdays/)
+
+## 🔗 More Resources
+
+- 🌐 [Official NYU Game Center Website](https://gamecenter.nyu.edu/)
