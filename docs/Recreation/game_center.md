@@ -14,19 +14,24 @@ The [**NYU Game Center**](https://gamecenter.nyu.edu/) is located on the **6th f
 The Game Center Library includes:
 
 - **Video games** spanning from the 1970s to the present across multiple console generations  
-- A variety of **board games**
-- **High-performance gaming computers**
+- A variety of **board games** that you can borrow
+- **High-performance gaming computers** with accessories and games installed
 
 📍 **Location:** 6th Floor, 370 Jay Street  
-🕒 **Hours:** Monday–Friday, 10 AM – 6 PM *(subject to semester schedule)*  
+🕒 **Hours:** 
+  - Monday-Friday 9:00am-10:00pm
+  - Saturday-Sunday: 12:00-8:00pm
+  
 📚 **Game Inventory:** [Browse available games](https://docs.google.com/spreadsheets/d/1R11_VvmYepsvQUcpjs4ZuMsYWdMNwegc1Gg1BebtU4Y/edit#gid=571633664)
 
 ## 🧪 Playtest Thursdays
 
-Every **Thursday at 5:00 PM** on the **2nd floor of 370 Jay Street**, students can bring their games—digital or physical—for playtesting and feedback. All disciplines and levels of progress are welcome!
+Every **Thursday: 5:00 PM - 6:30 PM** on the **2nd floor of 370 Jay Street**, students can bring their games—digital or physical—for playtesting and feedback. All disciplines and levels of progress are welcome!
 
 🔗 [More info on Playtest Thursday](https://gamecenter.nyu.edu/events/playtest-thursdays/)
 
 ## 🔗 More Resources
 
-- 🌐 [Official NYU Game Center Website](https://gamecenter.nyu.edu/)
+- 🌐 [Official NYU Game Center Website](https://gamecenter.nyu.edu/), the homepage of NYU Game Center
+
+- 🌐 [NYU Game Center Info](https://www.nyugamecenter.info/), including some accedemic resource
