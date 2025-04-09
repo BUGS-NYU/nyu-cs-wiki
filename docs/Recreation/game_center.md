@@ -32,6 +32,6 @@ Every **Thursday: 5:00 PM - 6:30 PM** on the **2nd floor of 370 Jay Street**, st
 
 ## 🔗 More Resources
 
-- 🌐 [Official NYU Game Center Website](https://gamecenter.nyu.edu/), the homepage of NYU Game Center
+- 🌐 [Official NYU Game Center Website](https://gamecenter.nyu.edu/) - the homepage of NYU Game Center
 
-- 🌐 [NYU Game Center Info](https://www.nyugamecenter.info/), including some accedemic resource
+- 🌐 [NYU Game Center Info](https://www.nyugamecenter.info/) - some accedemic resource
