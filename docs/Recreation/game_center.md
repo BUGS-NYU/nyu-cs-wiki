@@ -19,7 +19,7 @@ The Game Center Library includes:
 
 📍 **Location:** 6th Floor, 370 Jay Street  
 🕒 **Hours:** 
-  - Monday-Friday 9:00am-10:00pm
+  - Monday-Friday: 9:00am-10:00pm
   - Saturday-Sunday: 12:00-8:00pm
   
 📚 **Game Inventory:** [Browse available games](https://docs.google.com/spreadsheets/d/1R11_VvmYepsvQUcpjs4ZuMsYWdMNwegc1Gg1BebtU4Y/edit#gid=571633664)
