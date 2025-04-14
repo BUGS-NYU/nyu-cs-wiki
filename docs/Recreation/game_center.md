@@ -1,8 +1,8 @@
 ---
-title: Game Center  
-tags:  
-  - Student  
-  - Tisch  
+title: Game Center
+tags:
+  - Student
+  - Tisch
 ---
 
 # NYU Game Center
