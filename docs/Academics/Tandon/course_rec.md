@@ -47,10 +47,13 @@ in Physics, Chemistry, and Biology.
 - EG-UY 1003: Introduction to Engineering and Design
 
 ### Free electives
-- Many	26 credits ( 7 to 9 courses)
+- Many. 26 credits ( 7 to 9 courses)
 
 ### Total credits
-- 128 credits	128 credits
+- 128 credits
+
+### Comparing CS major requirement between CAS & Tandon
+- [CS at CAS and Tandon](https://cs.nyu.edu/home/undergrad/cs_tandon.html)
 
 # Cool Classes in Tandon
 
