@@ -14,6 +14,14 @@ A list of recommended classes by former students. If you would like to add/updat
 
 ## CAS
 
+- Applied Internet Technologies (CSCI-UA 0467)
+
+  Course Description: This course is a practical introduction to creating modern web applications. It will cover full stack web development - from database design all the way through client side interactivity. Students will use current server and client side web frameworks to build dynamic, data-driven sites. Various tools to support development will also be introduced, such as version control and build systems.
+
+  Comment: This class is definitely quite intensive, but it's a great introduction into webdev beyond just static html/css/javascript. You pretty much go through the entire MERN stack (A real world stack of frameworks and technologies frequently used in industry). Towards the end of the semester you get to do a project to apply what you've learned and possibly put on your portfolio for job/internship applications
+
+  Prerequisites: Basic knowledge of HTML and CSS and familiarity with using command line tools are required.
+
 ## Tandon
 
 - Algorithmic Machine Learning and Data Science
