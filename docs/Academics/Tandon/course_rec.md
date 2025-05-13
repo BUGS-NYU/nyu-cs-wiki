@@ -8,49 +8,7 @@ title: CS Wiki Course Registration
 - Bachelor of Science
 
 ### Required Computer Science Courses
-
-- CS-UY 1114: Introduction to Programming & Problem Solving
-- CS-UY 1122: Introduction to Computer Science
-- CS-UY 1124: Object Oriented Programming
-- CS-UY 2134: Data Structures and Algorithms
-- CS-UY 2214: Architecture and Organization
-- CS-UY 2413: Design & Analysis of Algorithms
-- CS-UY 3224: Introduction to Operating Systems
-- CS-UY 4513: Software Engineering
-- CS-UY 4523: Design Project
-
-### Computer Science Elective
-- 18 credits computer science electives (usually 6 courses)
-
-### Required math courses
-- MA-UY 1024: Calculus I for Engineers
-- MA-UY 1124: Calculus II for Engineers
-- MA-UY 2224: Data Analysis
-- MA-UY 2314: Discrete Mathematics
-
-### Required science courses
-- 3 science courses suitable for natural science or engineering majors. Normally chosen from Tandon introductory sequences
-in Physics, Chemistry, and Biology.
-
-### Required writing courses
-- EXPOS-UA 1: Writing the Essay
-- EXPOS-UA 2: The Advanced College Essay
-
-### Required humanities and social science courses (not including expos)
-- 4 courses, including an ethics course
-
-### Foreign language requirement
-- None
-
-### Required engineering courses	
-- EG-UY 1001: Engineering and Technology Forum
-- EG-UY 1003: Introduction to Engineering and Design
-
-### Free electives
-- Many. 26 credits ( 7 to 9 courses)
-
-### Total credits
-- 128 credits
+- [Computer Science Course Requirement at Tandon](https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-bs/)
 
 ### Comparing CS major requirement between CAS & Tandon
 - [CS at CAS and Tandon](https://cs.nyu.edu/home/undergrad/cs_tandon.html)
